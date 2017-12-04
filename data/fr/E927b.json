@@ -1,0 +1,23 @@
+{
+    "description": "Produit par synthèse à partir d'ammoniac et de dioxyde de carbone (E290)",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E927b (Carbamide)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Carbamide",
+        "Urée"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "à petite dose.",
+            "level": 0
+        }
+    ],
+    "title": "Additif E927b - Carbamide",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,17 @@
+{
+    "description": "Sel de fer de l'acide carbonique. Il existe à l'état naturel sur terre.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E505 (Carbonate ferreux)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Carbonate ferreux"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E505 - Carbonate ferreux",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

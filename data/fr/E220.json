@@ -1,0 +1,23 @@
+{
+    "description": "Presque tous les vins et moutardes en contiennent. Leur présence est indiquée sur l'étiquette afin de protéger les allergiques.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E220 (Dioxyde de soufre)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Dioxyde de soufre",
+        "Anhydride sulfureux"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux sulfites.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E220 - Dioxyde de soufre",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

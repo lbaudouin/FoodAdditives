@@ -1,0 +1,22 @@
+{
+    "description": "Extrait de la résine d'un arbre, le Guaiacum officinale.\nLa résine contient un très bon antioxydant, mais il favorise les calculs rénaux.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E241 (Gomme gaïac)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Gomme gaïac"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Favorise les calculs rénaux.",
+            "level": 2
+        }
+    ],
+    "title": "Additif E241 - Gomme gaïac",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

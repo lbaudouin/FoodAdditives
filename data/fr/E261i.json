@@ -1,0 +1,32 @@
+{
+    "description": "Sel ou ester de l'acide acétique combiné à ce métal.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E261i (Acétate de potassium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Acétate de potassium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Son inhalation est irritante",
+            "level": 2
+        },
+        {
+            "category": "Divers",
+            "details": "Sous forme concentrée il est corrosif",
+            "level": 2
+        },
+        {
+            "category": "Divers",
+            "details": "Il est déconseillé en cas de maux d'estomac en raison de son acidité.",
+            "level": 2
+        }
+    ],
+    "title": "Additif E261i - Acétate de potassium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

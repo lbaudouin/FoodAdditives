@@ -1,0 +1,27 @@
+{
+    "description": "Pas encore interdit en Europe, mais interdit en France et dans de nombreux pays.",
+    "family": "Colorants  Brun",
+    "image": false,
+    "legal": "Le E155 (Brun chocolat HT)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Brun chocolat HT",
+        "Chocolate Brown HT",
+        "C.I. 20285",
+        "Brun HT",
+        "Brown HT",
+        "Food Brown 3"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        }
+    ],
+    "title": "Additif E155 - Brun chocolat HT",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

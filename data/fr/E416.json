@@ -1,0 +1,30 @@
+{
+    "description": "C'est l'exsudat des branches de Sterculia urens, plante des zones arides de l'Inde et d'autres sterculiacées ou de Cochlospermum gossypium. La gomme de Sterculia urens est utilisée comme coupe-faim (gonfle dans l'estomac sans y être digéré) et contre la constipation (laxatif léger sans effet indésirable car juste mécanique.\nSe présente sous forme de gouttes aux dimensions variables et en fragments irreguliers ayant un aspect semi-cristallin caractéristique. Sa couleur va du jaune pale au brun rosé,translucide et corné. La gomme a une odeur caracteristique d'acid acétique.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E416 (Gomme karaya)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Gomme karaya",
+        "Kuterra",
+        "Kullo",
+        "Katilo",
+        "Karaya",
+        "Kadaya",
+        "Gomme sterculia",
+        "Gomme de karaya",
+        "Sterculia"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses peut provoquer des diarrhées et flatulences.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E416 - Gomme karaya",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

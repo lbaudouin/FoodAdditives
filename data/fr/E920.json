@@ -1,0 +1,19 @@
+{
+    "description": "Inoffensif, acide aminé autorisé seulement comme agent de traitement de la farine.\nParfois extrait de cheveux humains!",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E920 (Lcystéine dérivés)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Lcystéine dérivés",
+        "L-cystéine et chlorhydrates",
+        "Cystéine"
+    ],
+    "origin": "Issu d'animaux",
+    "risk": [
+    ],
+    "title": "Additif E920 - Lcystéine dérivés",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,27 @@
+{
+    "description": "L'aluminium est aujourd'hui considéré comme un neurotoxique.\nIl interviendrait notamment dans le déclenchement de la maladie d'Alzheimer.\nAu vu des nouvelles études, il est prudent d'éviter d'ingérer ce métal. Si les emballages et casseroles en aluminiun métal, peu assimilable, présentent assez peu de danger pour un usage ponctuel.\nIl peut y avoir danger pour un usage quotidien, surtout avec des aliments acides : choux, épinards, sodas.\nL'élimination de l'aluminium ingéré se fait par la filration rénale.",
+    "family": "Colorants  Métal",
+    "image": false,
+    "legal": "Le E173 (Aluminium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Aluminium"
+    ],
+    "origin": "Issu de minéraux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Toxique sur le système nerveux à hautes doses.",
+            "level": 5
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E173 - Aluminium",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

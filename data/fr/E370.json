@@ -1,0 +1,18 @@
+{
+    "description": "Cet additif est synthétisé à partir de l'acide hydroxy-heptanoïque.\nIl est utilisé dans les arômes de noix de coco ou de vanille.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E370 (Heptonolactone)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Heptonolactone",
+        "Hepronolactone"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E370 - Heptonolactone",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

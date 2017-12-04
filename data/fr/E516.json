@@ -1,0 +1,22 @@
+{
+    "description": "Sel de l'acide sulfurique combiné avec ce métal.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E516 (Sulfate de calcium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Sulfate de calcium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Des doses très importantes peuvent entrainer des obstructions intestinales",
+            "level": 1
+        }
+    ],
+    "title": "Additif E516 - Sulfate de calcium",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

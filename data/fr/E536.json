@@ -1,0 +1,22 @@
+{
+    "description": "Sel complexe combiné avec ce métal.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E536 (Ferrocyanure de potassium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Ferrocyanure de potassium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "à priori.",
+            "level": 0
+        }
+    ],
+    "title": "Additif E536 - Ferrocyanure de potassium",
+    "usage": "Antiagglomérant",
+    "use": "Sel de mer <span style='font-style: italic;'>La Baleine</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

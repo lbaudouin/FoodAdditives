@@ -1,0 +1,22 @@
+{
+    "description": "Dérivé du E104.",
+    "family": "Anti-oxydants",
+    "image": false,
+    "legal": "Le E324 (Ethoxyquine)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Ethoxyquine"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Suspect (élévation des enzymes du foie chez les animaux)",
+            "level": 2
+        }
+    ],
+    "title": "Additif E324 - Ethoxyquine",
+    "usage": "Antioxydant",
+    "use": "",
+    "version": 1
+}

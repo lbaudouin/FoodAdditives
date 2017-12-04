@@ -1,0 +1,17 @@
+{
+    "description": "Un peptone est le produit d'une réaction d'hydrolyse  de protéines. En clair, cet additifs est un mélange de plein de \"morceaux\" de molécules de protéines.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E429 (Peptones)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Peptones"
+    ],
+    "origin": "Parfois issu d'animaux",
+    "risk": [
+    ],
+    "title": "Additif E429 - Peptones",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

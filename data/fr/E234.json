@@ -1,0 +1,17 @@
+{
+    "description": "La nisine est un antibactérien à large spectre. Elle est produite par fermentation à l'aide de bactérie Lactococcus lactis sur des substrats naturels comme le lait ou du dextrose.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E234 (Nisine)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Nisine"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E234 - Nisine",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

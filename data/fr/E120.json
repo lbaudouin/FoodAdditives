@@ -1,0 +1,28 @@
+{
+    "description": "Cochenille désigne un insecte de la famille des coccidés, dont une espèce mexicaine, écrasée, fournit une teinture rouge.\nLe colorant rouge Cochenille se présente sous forme de solide friable ou poudre rouge à rouge foncé. L'extrait de cochenille est généralement un liquide rouge foncé mais peut également être séché pour obtenir une poudre.",
+    "family": "Colorants  Rouge",
+    "image": true,
+    "legal": "Le E120 (Cochenille) est autorisé en france",
+    "molecule": "C<sup>22</sup>H<sup>20</sup>O<sup>13</sup> (acide carminique)",
+    "names": [
+        "Cochenille",
+        "Crimson Lake",
+        "Cochineal",
+        "Carmins",
+        "Acide carminique",
+        "Natural Red 4",
+        "Rouge cochenille"
+    ],
+    "origin": "Issu d'insectes",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux carmins.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E120 - Cochenille",
+    "usage": "Colorant",
+    "use": "Tic Tac Citron Vert/Orange Colorants Naturels <span style='font-style: italic;'>Ferrero</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

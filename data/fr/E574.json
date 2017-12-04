@@ -1,0 +1,22 @@
+{
+    "description": "L'acide gluconique est un acide présent naturellement dans plusieurs fruits.\nDans l'industrie, il est synthétisé à partir de glucose.\nIl est soluble dans l'eau et l'alcool.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E574 (Acide gluconique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Acide gluconique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Corrosif lorsqu'il est concentré.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E574 - Acide gluconique",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

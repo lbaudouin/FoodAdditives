@@ -1,0 +1,20 @@
+{
+    "description": "Esters de glycérol et d'uin mélange d'acide acétique et d'acides gras des huiles et graisse alimenaires.\nSe présente sous forme de liquides clairs très fluides ou de solides blanc à jaune pale.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E472a (Acétoglycérides) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Acétoglycérides",
+        "Mono- et diglycérides acétylés",
+        "Esters glycéroliques de l'acide acétique et d'acides gras",
+        "Esters acétiques des mono- et diglycérides d'acides gras"
+    ],
+    "origin": "Issu de matières grasses d'origine indeterminée (animale ou végétale)",
+    "risk": [
+    ],
+    "title": "Additif E472a - Acétoglycérides",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

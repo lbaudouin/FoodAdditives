@@ -1,0 +1,22 @@
+{
+    "description": "Se présente sous forme de poudre de couleur crème.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E415 (Gomme xanthane) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Gomme xanthane"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Elle a des effets laxatifs à des doses de 15 grammes (ou plus faible chez certaines personnes) par jour.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E415 - Gomme xanthane",
+    "usage": "Épaississant",
+    "use": "Riz au lait Rhum Raisin <span style='font-style: italic;'>La laitière</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

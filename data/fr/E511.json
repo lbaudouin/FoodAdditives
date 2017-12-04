@@ -1,0 +1,22 @@
+{
+    "description": "Sel magnésium de l'acide chlorhydrique.\nLe chlorure de magnésium peut être extrait de la saumure ou de l'eau de mer.\nIl est utilisé pour faire coaguler le lait de soja en tofu.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E511 (Chlorure de magnésium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Chlorure de magnésium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Les insuffisants rénaux doivent éviter les hautes doses.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E511 - Chlorure de magnésium",
+    "usage": "Affermissant",
+    "use": "",
+    "version": 1
+}

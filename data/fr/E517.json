@@ -1,0 +1,22 @@
+{
+    "description": "Sel ammoniacal de l'acide sulfurique.\nIl est produit par la réaction de l'acide sulfurique et d'ammoniac.\nIl est très utilisé en tant qu'engrais.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E517 (Sulfate d'ammonium)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Sulfate d'ammonium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Des doses importantes peuvent entrainer un important inconfort intestinal.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E517 - Sulfate d'ammonium",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

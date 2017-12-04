@@ -1,0 +1,22 @@
+{
+    "description": "Sel de l'acide bromique combiné avec ce métal.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E924 (Bromate de potassium)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Bromate de potassium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Cancérigène",
+            "level": 5
+        }
+    ],
+    "title": "Additif E924 - Bromate de potassium",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

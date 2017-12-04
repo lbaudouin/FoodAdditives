@@ -1,0 +1,17 @@
+{
+    "description": "Corps résultant de la combinaison d'un atome d'oxygène avec ce métal.\nAutorisé seulement en surface",
+    "family": "Colorants  Jaune",
+    "image": false,
+    "legal": "Le E172iii (Oxyde de fer, jaune) est autorisé en france",
+    "molecule": "Iron Oxide Yellow: FeO(OH) · xH<sup>2</sup>O",
+    "names": [
+        "Oxyde de fer, jaune"
+    ],
+    "origin": "Issu de minéraux",
+    "risk": [
+    ],
+    "title": "Additif E172iii - Oxyde de fer, jaune",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

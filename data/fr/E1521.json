@@ -1,0 +1,28 @@
+{
+    "description": "Il s'agit de longues chaînes d'éthylène-glycol.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E1521 (Polyéthylène-glycol)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Polyéthylène-glycol",
+        "Macrogol"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Il a un effet laxatif",
+            "level": 1
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1521 - Polyéthylène-glycol",
+    "usage": "Antimoussant",
+    "use": "",
+    "version": 1
+}

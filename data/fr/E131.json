@@ -1,0 +1,24 @@
+{
+    "description": "Sel calcique ou sodique du sel interne hydroxyde de N-éthyl N-[[(diéthylamino-4 phényl) (hydroxy-5 disulfo-2,4 phényl) méthylène]-4 cyclohexadiène-2,5 ylidène-11 éthaneaminyium].\nSe présente sous forme de poudres ou granules bleus foncés, solution aqueuse bleue.",
+    "family": "Colorants  Bleu",
+    "image": true,
+    "legal": "Le E131 (Bleu patenté V) est autorisé en france",
+    "molecule": "Sel de Calcium : (C<sup>27</sup>H<sup>31</sup>N<sup>2</sup>O<sup>7</sup>S<sup>2</sup>)<sup>2</sup>Ca\r\nSel de Sodium: C<sup>27</sup>H<sup>31</sup>N<sup>2</sup>O<sup>7</sup>S<sup>2</sup>Na",
+    "names": [
+        "Bleu patenté V",
+        "Food Blue 5",
+        "Sulphan Blue"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque important d'allergies.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E131 - Bleu patenté V",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

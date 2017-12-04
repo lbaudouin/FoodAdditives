@@ -1,0 +1,24 @@
+{
+    "description": "Dérivé du sel de sodium du carboxyméthylcellulose de sodium  (E466),",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E468 (Carboxyméthylcellulose de sodium réticulée)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Carboxyméthylcellulose de sodium réticulée",
+        "Gomme cellulosique réticulée",
+        "Carboximéthyl-cellulose sodique réticulée"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose peut provoquer ballonnements et diarrhées",
+            "level": 1
+        }
+    ],
+    "title": "Additif E468 - Carboxyméthylcellulose de sodium réticulée",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

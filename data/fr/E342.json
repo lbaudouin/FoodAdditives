@@ -1,0 +1,18 @@
+{
+    "description": "Sel d'ammoniac de l'acide phosphorique (E338).",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E342 (Phosphate d'ammonium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Phosphate d'ammonium",
+        "Phosphates d'ammonium"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E342 - Phosphate d'ammonium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

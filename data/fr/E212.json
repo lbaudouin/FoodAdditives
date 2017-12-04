@@ -1,0 +1,22 @@
+{
+    "description": "Sel ou ester (de l'acide benzoïque) combiné au potassium",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E212 (Benzoate de potassium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Benzoate de potassium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "HyperActivité",
+            "details": "En association avec certains colorants les benzoates seraient impliqués dans un grand pourcentage de cas du syndrome d'hyperactivité chez les enfants.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E212 - Benzoate de potassium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

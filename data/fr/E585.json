@@ -1,0 +1,17 @@
+{
+    "description": "Se présente sous forme de cristaux blanc verdatres ou poudre vert clair ayent une odeur caractéristique.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E585 (Lactate ferreux)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C6H10FeO6.CH2O (X=2 ou 3)",
+    "names": [
+        "Lactate ferreux"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E585 - Lactate ferreux",
+    "usage": "Agent de rétention de la couleur",
+    "use": "",
+    "version": 1
+}

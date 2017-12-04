@@ -1,0 +1,38 @@
+{
+    "description": "Mélange d'acésulfame E950 et d'aspartame E951.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E962 (Sel d'aspartame acésulfame) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Sel d'aspartame acésulfame",
+        "Sel d'ascésulfame-aspartame"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Il est suspecté d'être cancérigène.",
+            "level": 3
+        },
+        {
+            "category": "Divers",
+            "details": "Il est suspecté de dérégler la production d'insuline chez la souris.",
+            "level": 3
+        },
+        {
+            "category": "Divers",
+            "details": "Ne doit pas être consommé par les personnes atteintes de phénylcétonurie.",
+            "level": 2
+        },
+        {
+            "category": "Divers",
+            "details": "A haute dose il peut être dangereux du fait des divers produits toxiques (mais que le corps sait gérer) que sa décomposition entraîne..",
+            "level": 1
+        }
+    ],
+    "title": "Additif E962 - Sel d'aspartame acésulfame",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

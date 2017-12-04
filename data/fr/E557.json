@@ -1,0 +1,27 @@
+{
+    "description": "Sel de zinc de l'oxyde de silicium (E551).\nIl est extrait le principal composant d'une roche, l'hémimorphite.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E557 (Silicate de zinc) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Silicate de zinc"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Il est à noter qu'un tiers de la population a un manque de zinc.",
+            "level": 0
+        },
+        {
+            "category": "Divers",
+            "details": "Irritant lorsqu'il est inhalé.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E557 - Silicate de zinc",
+    "usage": "Antiagglomérant",
+    "use": "",
+    "version": 1
+}

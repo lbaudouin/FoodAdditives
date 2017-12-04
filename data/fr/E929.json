@@ -1,0 +1,17 @@
+{
+    "description": "C'est une poudre blanche avec une odeur acre.\nC'est un produit de synthèse très explosif de fabrication simple.\nRarement voire jamais utilisé.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E929 (Peroxyde d'acétone)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Peroxyde d'acétone"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E929 - Peroxyde d'acétone",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

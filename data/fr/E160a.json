@@ -1,0 +1,27 @@
+{
+    "description": "Carotène",
+    "family": "Colorants  Orange",
+    "image": false,
+    "legal": "Le E160a (Provitamine A) est autorisé en france",
+    "molecule": "C<sup>40</sup>H<sup>56</sup>",
+    "names": [
+        "Provitamine A",
+        "Gamma-carotènes",
+        "Caroténoïdes mélangés",
+        "Beta-carotènes",
+        "Carotènes",
+        "Alpha-carotènes"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Deux études suggèrent que les suppléments hautement dosés en &#946;-carotène augmentent les risques de cancer des poumons chez les fumeurs et les personnes ayant été en contact avec l'amiante",
+            "level": 2
+        }
+    ],
+    "title": "Additif E160a - Provitamine A",
+    "usage": "Colorant",
+    "use": "Tic Tac Citron Vert/Orange Colorants Naturels <span style='font-style: italic;'>Ferrero</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

@@ -1,0 +1,22 @@
+{
+    "description": "Amidon traité à l'hypochlorite de sodium (eau de javel) puis estérisé avec de l'anhydride acétique (E260).",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1451 (Amidon oxydé acétylé )  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Amidon oxydé acétylé"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1451 - Amidon oxydé acétylé",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

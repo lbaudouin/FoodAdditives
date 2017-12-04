@@ -1,0 +1,24 @@
+{
+    "description": "Substance mucilagineuse qui exsude du tronc d'arbrisseaux du genre astragale, et qui sert comme colle dans la préparation des étoffes, des papiers, des cuirs, également utilisée en pharmacie et en pâtisserie.\nSe présente sous forme de fragments applatis ou sous forme d'élements spiralés de couleur blanche à jaune pale. Ils ont une texture caleuse et presentent des microfissures. Ils sont inodore.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E413 (Gomme adragante) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Gomme adragante",
+        "Traganthe",
+        "Tragacanthe"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses peut provoquer des diarrhées et flatulences.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E413 - Gomme adragante",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

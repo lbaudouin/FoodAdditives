@@ -1,0 +1,22 @@
+{
+    "description": "Synthétisé à partir du lactose.\nSon pouvoir sucrant est 0,3 fois celui du sucre à poids égal. \nIl a une saveur douce sans arrière-goût.\nIl est très utilisé dans les chewing-gums.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E966 (Lactitol) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Lactitol"
+    ],
+    "origin": "Issu du lait",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le lactitol est peu digéré par l'organisme et à haute dose donne des gaz ou des diarrhées.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E966 - Lactitol",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

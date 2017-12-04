@@ -1,0 +1,17 @@
+{
+    "description": "Corps résultant de la combinaison d'un atome d'oxygène avec ce métal.\nAutorisé seulement en surface",
+    "family": "Colorants  Rouge",
+    "image": false,
+    "legal": "Le E172ii (Oxyde de fer, rouge) est autorisé en france",
+    "molecule": "Iron Oxide Red: Fe<sup>2</sup>O<sup>3</sup>",
+    "names": [
+        "Oxyde de fer, rouge"
+    ],
+    "origin": "Issu de minéraux",
+    "risk": [
+    ],
+    "title": "Additif E172ii - Oxyde de fer, rouge",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

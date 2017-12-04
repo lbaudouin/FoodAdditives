@@ -1,0 +1,23 @@
+{
+    "description": "Stéarates - trouvé naturellement dans les graisses animales, et plus utile pour faire des bougies",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E470ii (Sels d'acides gras de magnésium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Sels d'acides gras de magnésium",
+        "Sels de magnésium d'acides gras"
+    ],
+    "origin": "Issu de matières grasses d'origine indeterminée (animale ou végétale)",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Provoqueraient à haute dose (possible, car ces additifs sont très fréquents) des troubles digestifs bénins",
+            "level": 1
+        }
+    ],
+    "title": "Additif E470ii - Sels d'acides gras de magnésium",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

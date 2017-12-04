@@ -1,0 +1,29 @@
+{
+    "description": "L'algue Eucheuma transformée est obtenue par traitement alcalin aqueu [...] afin d'eliminer les impuretées et d'extraire le produit par lavage à l'eau claire et pas dessication.\nLa purification peut encore etre amméliorée par lavage au methanol, à l'ethanol ou au propane-2-ol et par dessication.[...]Le carraghénane de l'algue [...] ne sera pas hydrolysé ni dégradé par autre procédé chimique.\nSe présente sous forme de poudre grossiere à fine pratiquement inodore, de couleur ocre à jaunatre.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E407a (Algues Eucheuma transformées) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Algues Eucheuma transformées",
+        "PES",
+        "Algue eucheuma transformée"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Chez les animaux peut causer des ulcères.",
+            "level": 2
+        },
+        {
+            "category": "Divers",
+            "details": "Causerait des inflammations intestinales.",
+            "level": 2
+        }
+    ],
+    "title": "Additif E407a - Algues Eucheuma transformées",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

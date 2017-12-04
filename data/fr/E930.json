@@ -1,0 +1,17 @@
+{
+    "description": "Agent de blanchiment des farines.\nProduit de synthèse. Il se dissout dans les acides pour former de l'eau oxygénée.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E930 (Peroxyde de calcium)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Peroxyde de calcium"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E930 - Peroxyde de calcium",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

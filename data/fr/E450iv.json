@@ -1,0 +1,22 @@
+{
+    "description": "Se présente sous forme de cristaux incolore; ou poudre blanche très hygroscopique.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E450iv (Diphosphate dipotassique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Diphosphate dipotassique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E450iv - Diphosphate dipotassique",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

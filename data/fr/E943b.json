@@ -1,0 +1,27 @@
+{
+    "description": "C'est un hydrocarbure obtenu par distillation du GPL ou à partir du butane (E943a).\nIl semble être rarement utilisé en alimentation.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E943b (Isobutane)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Isobutane"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Peut provoquer des somnolences lorsqu'il est inhalé.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "Inflammable",
+            "level": 1
+        }
+    ],
+    "title": "Additif E943b - Isobutane",
+    "usage": "Propulseur",
+    "use": "",
+    "version": 1
+}

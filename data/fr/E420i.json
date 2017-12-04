@@ -1,0 +1,22 @@
+{
+    "description": "Le sorbitol est un sucre-alcool naturel, au pouvoir sucrant 2 fois plus faible que le sucre classique. Il peut etre produit à partir de pommes, prunes, cerises et raisins. mais pour l'industrie, il est fabriqué commercialement à partir de glucose.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E420i (Sorbitol) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Sorbitol"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses peut provoquer des diarrhées et flatulences.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E420i - Sorbitol",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

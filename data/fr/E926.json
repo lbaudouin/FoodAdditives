@@ -1,0 +1,24 @@
+{
+    "description": "Bioxyde de chlore",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E926 (Oxyde de chlorine)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Oxyde de chlorine",
+        "Dioxyde de chlore",
+        "Peroxyde de chlore"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Toxique corrosif, polluant et explosif.",
+            "level": 5
+        }
+    ],
+    "title": "Additif E926 - Oxyde de chlorine",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

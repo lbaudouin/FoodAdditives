@@ -1,0 +1,23 @@
+{
+    "description": "L'adipate de diamidon acétylé  (E1422), est une fécule qui est traitée avec de l'anhydride acétique (au nom anhydride éthanoïque) et l'anhydride adipique pou résister à des températures élevées. Il est utilisé dans les aliments comme un agent  émulsifiant, stabilisant et épaississant.\nAucune dose journalière admissible pour la consommation humaine a été déterminée.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1422 (Adipate de diamidon acétylé ) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Adipate de diamidon acétylé",
+        "Adipate de diamidon acétyle"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1422 - Adipate de diamidon acétylé",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

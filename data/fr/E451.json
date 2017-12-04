@@ -1,0 +1,17 @@
+{
+    "description": "L'acide triphosphorique et une chaine de 3 molécules d'acide phosphorique.\nLes triphosphates sont les ions de cet acide.\nIls sont tous fabriqués avec de l'acide triphosphorique et des carbonates (de sodium, potassium, etc...)",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E451 (Triphosphates)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Triphosphates"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E451 - Triphosphates",
+    "usage": "Séquestrant",
+    "use": "",
+    "version": 1
+}

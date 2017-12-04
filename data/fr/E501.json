@@ -1,0 +1,17 @@
+{
+    "description": "Sel de potassium de l'acide carbonique.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E501 (Carbonates de potassium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Carbonates de potassium"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E501 - Carbonates de potassium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

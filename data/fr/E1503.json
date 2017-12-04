@@ -1,0 +1,28 @@
+{
+    "description": "C'est une huile végétale, obtenue à partir des graines de ricin.\nLe ricin contient aussi une toxine extrêmement toxique (la ricine) qui est éliminée par le pressage à froid et le filtrage de l'huile.\nLe nom anglais castor oil vient du fait que cette huile végétale a remplacé une huile faite à partir de glandes à graisse du castor qui était utilisée pour graisser les machines.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E1503 (Huile de ricin)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Huile de ricin",
+        "Castor oil"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses, c'est un purgatif violent, voire mortel (à cause de la déshydratation qu'il provoque).",
+            "level": 3
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1503 - Huile de ricin",
+    "usage": "Solvant de support",
+    "use": "",
+    "version": 1
+}

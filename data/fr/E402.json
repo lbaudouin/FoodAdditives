@@ -1,0 +1,17 @@
+{
+    "description": "Sel potassique de l'acide alginique.\nSe présente sous forme de poudre fibreuse ou granuleuse pratiquement inodore, de couleur blanche à jaunatre.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E402 (Alginate de potassium) est autorisé en france",
+    "molecule": "(C<sup>6</sup>H<sup>7</sup>KO<sup>6</sup>)<sup>n</sup>",
+    "names": [
+        "Alginate de potassium"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+    ],
+    "title": "Additif E402 - Alginate de potassium",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

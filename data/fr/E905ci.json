@@ -1,0 +1,22 @@
+{
+    "description": "Huile minérale, dérivée du pétrole. En principe, n'est pas assimilée par l'organisme humain.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E905ci (Cire microcristalline)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Cire microcristalline"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Laxatif.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E905ci - Cire microcristalline",
+    "usage": "Agent de glaçage",
+    "use": "",
+    "version": 1
+}

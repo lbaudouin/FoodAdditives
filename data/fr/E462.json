@@ -1,0 +1,24 @@
+{
+    "description": "Cellulose traitée chimiquement. N'est pas soluble dans l'eau.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E462 (Ethylcellulose) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Ethylcellulose",
+        "Celluloses traitées",
+        "Ethyl-cellulose"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose peut provoquer ballonnements et diarrhées",
+            "level": 1
+        }
+    ],
+    "title": "Additif E462 - Ethylcellulose",
+    "usage": "Liant",
+    "use": "",
+    "version": 1
+}

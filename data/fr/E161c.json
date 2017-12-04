@@ -1,0 +1,18 @@
+{
+    "description": "Extrait de végétaux, de bovins, ou d'oeufs.",
+    "family": "Colorants  Jaune",
+    "image": true,
+    "legal": "Le E161c (Cryptoxanthine)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>40</sup>H<sup>56</sup>O",
+    "names": [
+        "Cryptoxanthine",
+        "Kryptoxanthine"
+    ],
+    "origin": "Parfois issu de bovins",
+    "risk": [
+    ],
+    "title": "Additif E161c - Cryptoxanthine",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

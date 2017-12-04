@@ -1,0 +1,23 @@
+{
+    "description": "Obtenu en traitant l'amidon avec du trichlorure de phosphoryle qui assemble deux chaînes d'amidon ensemble. Il est ensuite traité avec de l'anhydride acétique (E260)",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1414 (Phosphate de diamidon acétylé ) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Phosphate de diamidon acétylé",
+        "Phosphate de diamidon acétyle"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1414 - Phosphate de diamidon acétylé",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

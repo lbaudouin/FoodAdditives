@@ -1,0 +1,22 @@
+{
+    "description": "Maltitol en poudre (blanche).\nTrès utilisé dans les friandises, en particulier les chewing-gums.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E965i (Maltitol) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Maltitol"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le maltitol est peu digéré par l'organisme et donne des gaz ou des diarrhées.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E965i - Maltitol",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

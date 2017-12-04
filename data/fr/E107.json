@@ -1,0 +1,33 @@
+{
+    "description": "pas encore interdit en Europe, mais inutilisé par quasiment tout les pays, sauf l'Angleterre.",
+    "family": "Colorants  Jaune",
+    "image": true,
+    "legal": "Le E107 (Jaune 2G)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>16</sup>H<sup>12</sup>Cl<sup>2</sup>N<sup>4</sup>O<sup>7</sup>S<sup>2</sup>",
+    "names": [
+        "Jaune 2G",
+        "Yellow 2G"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Les asthmatiques peuvent éprouver des symptômes après consommation de Jaune 2G",
+            "level": 2
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        },
+        {
+            "category": "HyperActivité",
+            "details": "En association avec les benzoates (E210-E215), le Jaune 2G serait impliqué dans un grand pourcentage de cas du syndrome d'hyperactivité chez les enfants.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E107 - Jaune 2G",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

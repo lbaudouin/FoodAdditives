@@ -1,0 +1,22 @@
+{
+    "description": "Argile a fort pouvoir adsorbant et décolorant.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E558 (Bentonite)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Bentonite"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Irritant lorsqu'il est inhalé.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E558 - Bentonite",
+    "usage": "Antiagglomérant",
+    "use": "",
+    "version": 1
+}

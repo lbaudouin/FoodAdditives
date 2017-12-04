@@ -1,0 +1,22 @@
+{
+    "description": "Il s'agit d'un ester synthétique d'acide laurique (E297) et de l'acide sulfurique (E570). Cet ester est neutralisé par du Carbonate de sodium (E500i).",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E487 (Laurylsulfate de sodium)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Laurylsulfate de sodium"
+    ],
+    "origin": "Issu de matières grasses d'origine indeterminée (animale ou végétale)",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Il peut donner des aphtes.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E487 - Laurylsulfate de sodium",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

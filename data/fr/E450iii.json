@@ -1,0 +1,23 @@
+{
+    "description": "Se présente sous forme de cristaux blancs ou incolore; poudre blanche,cristalline ou granuleuse.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E450iii (Diphosphate tétrasodique) est autorisé en france",
+    "molecule": "Na<sup>4</sup>P<sup>2</sup>O<sup>7</sup>\r\nNa<sup>4</sup>P<sup>2</sup>O<sup>7</sup>.10H<sup>2</sup>0",
+    "names": [
+        "Diphosphate tétrasodique",
+        "Pyrophosphate tetrasodique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E450iii - Diphosphate tétrasodique",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

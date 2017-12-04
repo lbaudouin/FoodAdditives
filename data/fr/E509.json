@@ -1,0 +1,22 @@
+{
+    "description": "La production industrielle est synthétique grâce au procédé Solvay.\nCe procédé Utilise du sel de table de la craie (E170i) et de l'ammoniac et donne comme produits du carbonate de sodium (E500i) et du chlorure de calcium (E509) et de l'ammoniac.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E509 (Chlorure de calcium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Chlorure de calcium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Irritant à l'état pur.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E509 - Chlorure de calcium",
+    "usage": "Affermissant",
+    "use": "",
+    "version": 1
+}

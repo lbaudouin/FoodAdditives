@@ -1,0 +1,23 @@
+{
+    "description": "Le Dicarbonate de diméthyle est un additifs de synthese qui se présente sous la forme d'un liquide incolore.\nAutorisé seulement dans les boissons aromatisées sans alcool, les vins et les vins sans alcool et le concentré liquide de thé.\nIl se décompose en méthanol et CO2 lorsqu'il est en présence d'eau.\nLe méthanol est naturellement présent dans le corps humain, les animaux, les plantes et les aliments. Cependant, à hautes doses, il est toxique, c'est pourquoi la quantité de Dicarbonate de diméthyle est limité à 250 mg par litres",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E242 (Dicarbonate de diméthyle)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Dicarbonate de diméthyle",
+        "Bicarbonate de diméthyle"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Produit des composés toxiques.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E242 - Dicarbonate de diméthyle",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

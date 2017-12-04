@@ -1,0 +1,23 @@
+{
+    "description": "Sel de sodium de l'acide inosinique (E630).",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E631 (Inosinate disodique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Inosinate disodique",
+        "Inosinate de sodium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "à priori.",
+            "level": 0
+        }
+    ],
+    "title": "Additif E631 - Inosinate disodique",
+    "usage": "Exaltateur d'arôme",
+    "use": "Flageolets Vert Extra Fins <span style='font-style: italic;'>Bonduelle</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

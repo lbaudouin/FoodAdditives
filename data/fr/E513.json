@@ -1,0 +1,23 @@
+{
+    "description": "Acide oxygéné dérivé du soufre, corrosif violent, servant à la fabrication de nombreux acides, des sulfates et aluns, des superphosphates, du glucose, d'explosifs et de colorants, etc.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E513 (Acide sulfurique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Acide sulfurique",
+        "Vitriol"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Sous forme concentrée, il est corrosif.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E513 - Acide sulfurique",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

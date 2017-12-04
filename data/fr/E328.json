@@ -1,0 +1,17 @@
+{
+    "description": "Le lactate d'ammonium est le sel de l'acide lactique (E270) combiné avec de l'ammoniac.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E328 (Lactate d'ammonium)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Lactate d'ammonium"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E328 - Lactate d'ammonium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,22 @@
+{
+    "description": "édulcorant",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E954ii (Saccharine de calcium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Saccharine de calcium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "A très hautes doses cause des cancers de la vessie chez les rats.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E954ii - Saccharine de calcium",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

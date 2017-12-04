@@ -1,0 +1,17 @@
+{
+    "description": "C'est un gaz à effet de serre interdit dans les réfrigérateurs.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E945 (Chloropentafluoroéthane)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Chloropentafluoroéthane"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E945 - Chloropentafluoroéthane",
+    "usage": "Propulseur",
+    "use": "",
+    "version": 1
+}

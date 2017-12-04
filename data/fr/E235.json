@@ -1,0 +1,23 @@
+{
+    "description": "Fut interdit en France. Antibiotique. Autorisé seulement pour le traitement de surface de certains fromages (pâte dure, semi-dure, semi-molle) et des saucisses et saucissons secs.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E235 (Pimaricine)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Pimaricine",
+        "Natamycine"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose, peut provoquer nausées et vomissements.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E235 - Pimaricine",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

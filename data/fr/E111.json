@@ -1,0 +1,23 @@
+{
+    "description": "Colorant de synthèse.",
+    "family": "Colorants  Orange",
+    "image": true,
+    "legal": "Le E111 (Orange CGN)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "C<sup>16</sup>H<sup>10</sup>N<sup>2</sup>Na<sup>2</sup>O<sup>7</sup>S<sup>2</sup>",
+    "names": [
+        "Orange CGN",
+        "Alpha-naphthol orange"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Dangereux.",
+            "level": 5
+        }
+    ],
+    "title": "Additif E111 - Orange CGN",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

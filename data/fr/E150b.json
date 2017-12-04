@@ -1,0 +1,24 @@
+{
+    "description": "Caramel issu de sucres chauffés en présence de sulfite caustique.\nDose journalière des E150abcd (tous confondus) maximale fixée par European Food Safety Authority (EFSA) à 300mg/Kg",
+    "family": "Colorants  Brun",
+    "image": false,
+    "legal": "Le E150b (Caramel sulfité) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Caramel sulfité",
+        "Caramel II - procédé au sulfite caustique",
+        "Caramel de sulfite caustique"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux sulfites.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E150b - Caramel sulfité",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,22 @@
+{
+    "description": "Acide extrait du citron, des groseilles, et de divers autres fruits.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E330 (Acide citrique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Acide citrique"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "à haute dose ou en cas de sensibilité, peut attaquer l'émail des dents, peut irriter la langue",
+            "level": 1
+        }
+    ],
+    "title": "Additif E330 - Acide citrique",
+    "usage": "Régulateur de l'acidité",
+    "use": "Moutarde Fine de Dijon <span style='font-style: italic;'>Maille</span>, Boisson aux Fruits Orange à l'eau de source <span style='font-style: italic;'>Grand Jury</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

@@ -1,0 +1,22 @@
+{
+    "description": "Base renfermant au moins un groupement OH-",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E525 (Hydroxyde de potassium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Hydroxyde de potassium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Concentré, il est corrosif",
+            "level": 1
+        }
+    ],
+    "title": "Additif E525 - Hydroxyde de potassium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

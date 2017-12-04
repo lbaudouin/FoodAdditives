@@ -1,0 +1,23 @@
+{
+    "description": "Amidon estérifié avec de l'acide orthophosphorique (E338).",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1410 (Phosphate d'amidon) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Phosphate d'amidon",
+        "Phosphate de monoamidon"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1410 - Phosphate d'amidon",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

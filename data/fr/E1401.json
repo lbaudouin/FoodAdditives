@@ -1,0 +1,22 @@
+{
+    "description": "Traité par des acides : l'acide chlorhydrique (E507), l'acide orthophosphorique (E338) ou l'acide sulfurique (E513). Cela a pour effet de fragmenter l'amidon. Il sera plus rapidement digéré.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1401 (Amidon traité aux acides) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Amidon traité aux acides"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1401 - Amidon traité aux acides",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

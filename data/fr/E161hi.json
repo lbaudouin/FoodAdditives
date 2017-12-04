@@ -1,0 +1,22 @@
+{
+    "description": "La zéaxanthine alimentaire E161hi est produite par synthèse.\nElle s’accumule au niveau de la macula de la rétine pour filtrer une partie de la lumière bleue et des ultraviolets, et pour éliminer les radicaux libres.",
+    "family": "Colorants  Orange-Rouge",
+    "image": false,
+    "legal": "Le E161hi (Zéaxanthine de synthèse)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Zéaxanthine de synthèse"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose, provoque des troubles de la rétine.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E161hi - Zéaxanthine de synthèse",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,22 @@
+{
+    "description": "Cet additif de synthèse se présente sous la forme d'un liquide incolore, corrosif et à l'odeur désagréable.\nDes bactéries à la surface de la peau humaine (dans les glandes sudoripares) sont des productrices d'acide propionique.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E280 (Acide propionique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Acide propionique"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Pourrait provoquer des migraines",
+            "level": 2
+        }
+    ],
+    "title": "Additif E280 - Acide propionique",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

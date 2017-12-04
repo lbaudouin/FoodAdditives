@@ -1,0 +1,24 @@
+{
+    "description": "Le BHQT est un composé organique proche de la famille des phénols.\nC'est un conservateur très efficace pour les huiles et matières grasses.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E319 (BHQT)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>10</sup>H<sup>14</sup>O<sup>2</sup>",
+    "names": [
+        "BHQT",
+        "Butylhydro - quinone tertiaire",
+        "Butylhydroquinone tertiaire"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Probablement effets cancérigènes",
+            "level": 4
+        }
+    ],
+    "title": "Additif E319 - BHQT",
+    "usage": "Antioxydant",
+    "use": "",
+    "version": 1
+}

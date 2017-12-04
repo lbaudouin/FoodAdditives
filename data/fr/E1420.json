@@ -1,0 +1,23 @@
+{
+    "description": "L'amidon acétylé, est une fécule qui est estérifiée avec de l'anhydride acétique (E260)",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1420 (Amidon acétylé ) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Amidon acétylé",
+        "Acétate d'amidon"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1420 - Amidon acétylé",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

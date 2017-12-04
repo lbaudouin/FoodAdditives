@@ -1,0 +1,23 @@
+{
+    "description": "Sel de sodium de l'acide guanylique (E626).",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E627 (Guanylate de Sodium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Guanylate de Sodium",
+        "Guanylate disodique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Peux causer des réactions allergiques cutanées.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E627 - Guanylate de Sodium",
+    "usage": "Exaltateur d'arôme",
+    "use": "Flageolets Vert Extra Fins <span style='font-style: italic;'>Bonduelle</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

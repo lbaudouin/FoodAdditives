@@ -1,0 +1,22 @@
+{
+    "description": "Ester d'amidon et de glycérol (E422). Il est ensuite estérifié avec de l'oxyde de propylène.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1443 (Glycérol de diamidon hydroxypropylé)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Glycérol de diamidon hydroxypropylé"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1443 - Glycérol de diamidon hydroxypropylé",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

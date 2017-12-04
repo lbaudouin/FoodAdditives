@@ -1,0 +1,23 @@
+{
+    "description": "Très fréquents dans les fruits secs (ex. : abricots secs, autorisés jusqu'à 2000 mg/kg), pomme de terre déshydratées, moutardes et yaourts aux fruits.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E223 (Disulfite de sodium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Disulfite de sodium",
+        "Métabisulfite de sodium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux sulfites.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E223 - Disulfite de sodium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

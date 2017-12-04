@@ -1,0 +1,25 @@
+{
+    "description": "Mélange de Guanylate de sodium (E627) et  Inosinate de sodium (E631).",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E635 (Ribonucléotide Na)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Ribonucléotide Na",
+        "Sodium 5 ribonucléotide",
+        "5'-ribonucléotide disodique",
+        "Ribonucléotides disodiques"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "à priori.",
+            "level": 0
+        }
+    ],
+    "title": "Additif E635 - Ribonucléotide Na",
+    "usage": "Exaltateur d'arôme",
+    "use": "",
+    "version": 1
+}

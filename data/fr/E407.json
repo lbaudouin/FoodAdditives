@@ -1,0 +1,33 @@
+{
+    "description": "La carraghénane est une algue marine poussant essentiellement (entre autres endroits) sur le talus continental au large de la Bretagne qui en est le premier producteur. Elle est desséchée et réduite en poudre pour être incorporée par petite quantités aux aliments c'est un gélifiant puissant (une seule petite cuillère peut gélifier plus d'un litre d'eau...).\nSe présente sous forme de poudre grossiere à fine pratiquement inodore, de couleur blanche à jaunatre.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E407 (Carraghénanes) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Carraghénanes",
+        "Mousse du Danemark",
+        "Mousse d'Irlande",
+        "Iridophycan",
+        "Hypnean",
+        "Eucheman",
+        "Carraghénates"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Chez les animaux peut causer des ulcères.",
+            "level": 2
+        },
+        {
+            "category": "Divers",
+            "details": "Causerait des inflammations intestinales.",
+            "level": 2
+        }
+    ],
+    "title": "Additif E407 - Carraghénanes",
+    "usage": "Épaississant",
+    "use": "Riz au lait Rhum Raisin <span style='font-style: italic;'>La laitière</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

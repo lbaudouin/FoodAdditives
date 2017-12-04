@@ -1,0 +1,26 @@
+{
+    "description": "édulcorant",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E954 (Saccharine) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Saccharine",
+        "Saccharine de potassium",
+        "Saccharine de calcium",
+        "Saccharine de Sodium",
+        "Saccharines"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "A très hautes doses cause des cancers de la vessie chez les rats.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E954 - Saccharine",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

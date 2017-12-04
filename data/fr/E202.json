@@ -1,0 +1,18 @@
+{
+    "description": "Le sorbate de potassium est produit par synthèse.\nIl s'agit d'un sel de potassium de l'acide sorbique.\nIl est nettement plus soluble dans l'eau que celui-ci\nOn le trouve dans de nombreux aliments tels que les yaourts, confiseries, sodas, fromages, produits de pâtisserie et boulangerie.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E202 (Sorbate de potassium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Sorbate de potassium",
+        "Potassium sorbate"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+    ],
+    "title": "Additif E202 - Sorbate de potassium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

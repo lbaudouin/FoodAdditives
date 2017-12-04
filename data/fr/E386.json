@@ -1,0 +1,22 @@
+{
+    "description": "Se lie aux métaux, ce qui le rend toxique.\nIl est utilisé en médecine pour traiter les empoisonnements aux métaux lourds\nInterdit en Suisse.",
+    "family": "Anti-oxydants",
+    "image": false,
+    "legal": "Le E386 (Ethylène-diamine-tétra-acètate disodique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Ethylène-diamine-tétra-acètate disodique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Génotoxique",
+            "level": 5
+        }
+    ],
+    "title": "Additif E386 - Ethylène-diamine-tétra-acètate disodique",
+    "usage": "Antioxydant",
+    "use": "",
+    "version": 1
+}

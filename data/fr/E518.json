@@ -1,0 +1,22 @@
+{
+    "description": "Sel de magnésium de l'acide sulfurique.\nC'est un minéral commun sur terre.\nIl est utilisé pour ses propriétés médicinales (sur la peau, en tant que laxatif, contre l'asthme).",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E518 (Sulfate de magnésium)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Sulfate de magnésium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Des doses importantes peuvent entrainer un important inconfort intestinal.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E518 - Sulfate de magnésium",
+    "usage": "Affermissant",
+    "use": "",
+    "version": 1
+}

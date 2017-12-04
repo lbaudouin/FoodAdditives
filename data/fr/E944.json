@@ -1,0 +1,27 @@
+{
+    "description": "C'est un hydrocarbure qui est le composant principal du GPL.\n\nIl semble être rarement utilisé en alimentation.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E944 (Propane)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Propane"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Peut provoquer des somnolences lorsqu'il est inhalé.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "Inflammable",
+            "level": 1
+        }
+    ],
+    "title": "Additif E944 - Propane",
+    "usage": "Propulseur",
+    "use": "",
+    "version": 1
+}

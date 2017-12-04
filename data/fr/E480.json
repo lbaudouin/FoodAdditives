@@ -1,0 +1,22 @@
+{
+    "description": "Produit par la réaction entre l'octane (un hydrocarbure) et l'acide succinique (E363), suivi par une réaction avec le sodium bisulfate (E514ii).",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E480 (Sulfosuccinate dioctylique de sodium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Sulfosuccinate dioctylique de sodium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Il peut avoir un effet laxatif.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E480 - Sulfosuccinate dioctylique de sodium",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

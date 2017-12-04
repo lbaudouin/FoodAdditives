@@ -1,0 +1,23 @@
+{
+    "description": "Se présente sous forme de poudre granuleuse ou fibreuse, blanche ou légèrement jaunatre ou grisatre, légèrement hygroscopique, inodore et insipide.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E464 (Hydroxypropylméthylcellulose) est autorisé en france",
+    "molecule": "C<sup>6</sup>H<sup>7</sup>O<sup>2</sup>(OR<sup>1</sup>)(OR<sup>2</sup>)(OR<sup>3</sup>) ou R<sup>1,2,3</sup> peuvent etre:\r\n-H\r\n-CH<sup>3</sup>\r\n-CH<sup>2</sup>CHOHCH<sup>3</sup>\r\n-CH<sup>2</sup>CHO(CH<sup>2</sup>CHOHCH<sup>3</sup>)CH<sup>3</sup>\r\n-CH<sup>2</sup>CHO[CH<sup>2</sup>CHO(CH<sup>2</sup>CHOHCH<sup>3</sup>)CH<sup>3</sup>]CH<sup>3</sup>",
+    "names": [
+        "Hydroxypropylméthylcellulose",
+        "Hydroxypropyl-méthyl-cellulose"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose peut provoquer ballonnements et diarrhées",
+            "level": 1
+        }
+    ],
+    "title": "Additif E464 - Hydroxypropylméthylcellulose",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

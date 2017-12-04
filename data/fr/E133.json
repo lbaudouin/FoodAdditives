@@ -1,0 +1,34 @@
+{
+    "description": "Fut interdit en France et dans d'autre pays mais finalement il s'avère sans danger.",
+    "family": "Colorants  Bleu",
+    "image": true,
+    "legal": "Le E133 (Bleu brillant FCF) est autorisé en france",
+    "molecule": "C<sup>37</sup>H<sup>34</sup>N<sup>2</sup>Na<sup>2</sup>O<sup>9</sup>S<sup>3</sup>",
+    "names": [
+        "Bleu brillant FCF",
+        "Xylene Blue VSG",
+        "Patent Blue AR",
+        "Food Blue 2",
+        "Eriosky blue",
+        "Erioglaucine",
+        "D&C Blue No. 4",
+        "C.I. 42090",
+        "Blue No.1",
+        "Atracid Blue FG",
+        "Alzen Food Blue No. 1",
+        "Alphazurine",
+        "Acid Blue 9"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E133 - Bleu brillant FCF",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

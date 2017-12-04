@@ -1,0 +1,22 @@
+{
+    "description": "Sel de l'acide nitreux combiné à ce métal.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E249 (Nitrite de potassium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Nitrite de potassium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Peut former sous certaines conditions qui sont présentes lors de la digestion (acidité, chaleur, et présence de protéines) des nitrosamines dont certaines sont cancérigènes.",
+            "level": 4
+        }
+    ],
+    "title": "Additif E249 - Nitrite de potassium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

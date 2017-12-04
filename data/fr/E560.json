@@ -1,0 +1,22 @@
+{
+    "description": "Sel de potassium de l'oxyde de silicium (E551).\nIl est transparent comme du verre.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E560 (Silicate de potassium)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Silicate de potassium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Irritant lorsqu'il est inhalé.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E560 - Silicate de potassium",
+    "usage": "Antiagglomérant",
+    "use": "",
+    "version": 1
+}

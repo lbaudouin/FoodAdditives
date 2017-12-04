@@ -1,0 +1,17 @@
+{
+    "description": "Souvent utilisé pour des pommades ou il est sans danger, mais on n'en mange pas !",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E913 (Lanoline)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Lanoline"
+    ],
+    "origin": "Issu d'animaux",
+    "risk": [
+    ],
+    "title": "Additif E913 - Lanoline",
+    "usage": "Agent de glaçage",
+    "use": "",
+    "version": 1
+}

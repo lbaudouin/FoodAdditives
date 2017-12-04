@@ -1,0 +1,22 @@
+{
+    "description": "Le xylitol est extrait de l'écorce de bouleau.\nIl a le même pouvoir sucrant et le même goût que le sucre. Cependant, il a un effet rafraîchissant et contient moins de calories.\nIl est non cariogène.\nIl est très utilisé dans les chewing-gums rafraichissants.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E967 (Xylitol) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Xylitol"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le Xylitol est peu digéré par l'organisme et à haute dose donne des gaz ou des diarrhées.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E967 - Xylitol",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

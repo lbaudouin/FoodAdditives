@@ -1,0 +1,27 @@
+{
+    "description": "Il s'agit d'huile végétale à laquelle est ajouté du brome (un élément chimique naturel).\nLe brome sert à contrôler la densité de l'huile.\nC'est utilisé par exemple dans des boissons (synthétiques) au citron.\nLa molécule aromatique du citron (responsable de l'aspect trouble de la boisson) est soluble dans l'huile. L'huile et l'eau du reste de la boisson ne se mélangent pas. La plus légère, l'huile, flotte et la boisson n'est pas jolie à voir. En utilisant de l'huile bromée, l'eau et l'huile ont le même poids et se mélangent.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E443 (Huile végétale bromée)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Huile végétale bromée"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Un consommation à haute dose peut entrainer flatulences et diarrhées",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "A hautes dose le brome peut rendre la peau rouge (1 seul cas dans le monde, il a retrouvé sa couleur de peau habituelle après une dialyse)",
+            "level": 4
+        }
+    ],
+    "title": "Additif E443 - Huile végétale bromée",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

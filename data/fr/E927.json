@@ -1,0 +1,17 @@
+{
+    "description": "Produit de synthese, il réagit avec l'hydrogène pour former de l'urée.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E927 (Azoformamide)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Azoformamide"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E927 - Azoformamide",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

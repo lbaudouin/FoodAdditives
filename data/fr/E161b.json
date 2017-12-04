@@ -1,0 +1,17 @@
+{
+    "description": "Pigment jaune naturellement présent dans les plantes et le jaune d'oeuf.\nLa lutéine est souvent utilisée dans l'alimentation du poulet pour colorer sa peau en jaune.",
+    "family": "Colorants  Jaune",
+    "image": true,
+    "legal": "Le E161b (Lutéines) est autorisé en france",
+    "molecule": "C<sup>40</sup>H<sup>56</sup>O<sup>2</sup>",
+    "names": [
+        "Lutéines"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E161b - Lutéines",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

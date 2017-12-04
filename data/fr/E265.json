@@ -1,0 +1,23 @@
+{
+    "description": "Additif synthétique.\nFongicide, utilisé en particulier pour conserver les cornichons et les fraises.\nPeu soluble dans l'eau.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E265 (Acide déhydracétique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Acide déhydracétique",
+        "Dehydroacetic acid"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses, cause des insuffisances rénales.",
+            "level": 2
+        }
+    ],
+    "title": "Additif E265 - Acide déhydracétique",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

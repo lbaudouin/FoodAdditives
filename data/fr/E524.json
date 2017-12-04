@@ -1,0 +1,22 @@
+{
+    "description": "Base renfermant au moins un groupement OH-",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E524 (Hydroxyde de sodium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Hydroxyde de sodium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Concentré, il est corrosif",
+            "level": 1
+        }
+    ],
+    "title": "Additif E524 - Hydroxyde de sodium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

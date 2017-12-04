@@ -1,0 +1,22 @@
+{
+    "description": "Obtenu en traitant l'amidon avec du trichlorure de phosphoryle qui assemble deux chaînes d'amidon ensemble.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1412 (Phosphate de diamidon ) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Phosphate de diamidon"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1412 - Phosphate de diamidon",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

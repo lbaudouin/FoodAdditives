@@ -1,0 +1,22 @@
+{
+    "description": "Sel de potassium de l'ion Iodate.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E917 (Iodate de potassium)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Iodate de potassium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "La dose fatale est très faible (une cuillère à café)",
+            "level": 1
+        }
+    ],
+    "title": "Additif E917 - Iodate de potassium",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

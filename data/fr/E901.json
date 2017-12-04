@@ -1,0 +1,17 @@
+{
+    "description": "Fabriqué par les abeilles dans leur ruche\nAgent de texture",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E901 (Cire d'abeille)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Cire d'abeille"
+    ],
+    "origin": "Issu d'insectes",
+    "risk": [
+    ],
+    "title": "Additif E901 - Cire d'abeille",
+    "usage": "Agent de glaçage",
+    "use": "",
+    "version": 1
+}

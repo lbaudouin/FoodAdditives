@@ -1,0 +1,24 @@
+{
+    "description": "Pigment vert des végétaux, synthétisé dans les chloroplastes en présence de lumière, et dont le rôle est essentiel dans la photosynthèse.\nSolvants autorisés pour l'extraction : acétone (Toxique), méthyléthylcétone (T), dichlorométhane (T), dioxyde de carbone (non toxique), méthanol (T), éthanol (NT, végétal, alimentaire), propanol-2 (T) et hexane (T).",
+    "family": "Colorants  Vert",
+    "image": false,
+    "legal": "Le E141 (Complexes cuivre-chlorophylles) est autorisé en france",
+    "molecule": "Cuivre phaeophytin a: C<sup>55</sup>H<sup>72</sup>CuN<sup>4</sup>O<sup>5</sup>\r\nCuivre phaeophytin b: C<sup>55</sup>H<sup>70</sup>CuN<sup>4</sup>O<sup>6</sup>",
+    "names": [
+        "Complexes cuivre-chlorophylles",
+        "Complexes cuivre-chlorophyllines",
+        "Complexes cupriques de chlorophylles et chlorophyllines"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Non toxique si le solvant est non toxique ou parfaitement éliminé.",
+            "level": 0
+        }
+    ],
+    "title": "Additif E141 - Complexes cuivre-chlorophylles",
+    "usage": "Colorant",
+    "use": "Tic Tac Citron Vert/Orange Colorants Naturels <span style='font-style: italic;'>Ferrero</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

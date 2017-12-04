@@ -1,0 +1,27 @@
+{
+    "description": "Composé de benzène: [sel disodique ou dipotassique de l'acide (tétraiodo-2,4,5,7 hydroxy-6 oxo-3 3H-xanthényl-9)-2 benzènecarboxylique ou tétraiodo-2,4,5,7 fluorescéine]\nSe présente sous forme de poudre ou granules rouges, solution aqueuse rouge.",
+    "family": "Colorants  Rouge",
+    "image": true,
+    "legal": "Le E127 (Erythrosine)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>20</sup>H<sup>6</sup>I<sup>4</sup>Na<sup>2</sup>O<sup>5</sup>\r\nC<sup>20</sup>H<sup>6</sup>I<sup>4</sup>Ca<sup>2</sup>O<sup>5</sup>\r\nC<sup>20</sup>H<sup>6</sup>I<sup>4</sup>K<sup>2</sup>O<sup>5</sup>",
+    "names": [
+        "Erythrosine"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "peut-être cancérigène (cancers de la thyroïde chez le rat)",
+            "level": 4
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie (notamment asthme, urticaire, prurit)",
+            "level": 3
+        }
+    ],
+    "title": "Additif E127 - Erythrosine",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

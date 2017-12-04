@@ -1,0 +1,29 @@
+{
+    "description": "Mélange de sorbitol partiellement estérifié et de ses mono- et dianhydrides avec de l’acide stéarique\ncommercial alimentaire, condensé avec environ 20 moles d’oxyde d’éthylène par mole de sorbitol et de ses\nanhydrides.\nSe présente sous forme de liquide huileux ou semi-gel de couleur citron à orange à 25°C ayant une légère odeur caractéristique.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E435 (Polysorbate 60)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Polysorbate 60",
+        "Monostéarate de sorbitane polyoxyéthylène 20",
+        "Monostéarate de polyoxyéthylène 20 sorbitane"
+    ],
+    "origin": "Issu de matières grasses d'origine indeterminée (animale ou végétale)",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "A priori il a un effet laxatif comme le (E432) car ils sont très proches chimiquement.",
+            "level": 1
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergies chez les personnes intolérantes au propylène glycol (E1520)",
+            "level": 3
+        }
+    ],
+    "title": "Additif E435 - Polysorbate 60",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

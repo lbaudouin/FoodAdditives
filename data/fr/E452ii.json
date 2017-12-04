@@ -1,0 +1,26 @@
+{
+    "description": "Se présente sous forme de poudre ou cristaux blanc fins ou plaquettes vitreuses incolores",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E452ii (Sel de Kurrol) est autorisé en france",
+    "molecule": "(KPO<sup>3</sup>)<sup>n</sup>",
+    "names": [
+        "Sel de Kurrol",
+        "Polyphosphate de potassium",
+        "Polyphosphates de potassium",
+        "Polyphosphate potassique",
+        "Metaphosphate de potassium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E452ii - Sel de Kurrol",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

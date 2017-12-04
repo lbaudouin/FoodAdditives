@@ -1,0 +1,17 @@
+{
+    "description": "Sel d'ammoniac de l'acide malique (E296).",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E349 (Malate d'ammonium)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Malate d'ammonium"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E349 - Malate d'ammonium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

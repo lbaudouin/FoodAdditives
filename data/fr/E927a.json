@@ -1,0 +1,27 @@
+{
+    "description": "Produit par synthèse à partir de carbamide (E927b)\nSe présente sous la forme d'une poudre cristalline jaune à orange voire rouge, inodore.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E927a (Azodicarbonamide)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Azodicarbonamide"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Fait apparaitre des asthmes.",
+            "level": 2
+        },
+        {
+            "category": "Allergie",
+            "details": "Allergisant.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E927a - Azodicarbonamide",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

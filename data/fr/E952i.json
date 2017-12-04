@@ -1,0 +1,32 @@
+{
+    "description": "L'acide cyclamique a un pouvoir sucrant équivalent à 40 fois celui du sucre.\nEn France, son usage est limité aux boissons non alcoolisées, aux desserts et aux confiseries à des doses faibles (moins de 1.6 g par kilogramme de produit).\nInterdit aux États unis et Angleterre.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E952i (Acide cyclamique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Acide cyclamique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Des test sur des rats ont montré des conséquences sur le système reproducteur (atrophie des testicules)",
+            "level": 4
+        },
+        {
+            "category": "Divers",
+            "details": "Des bactéries peuvent dégrader les cyclamates en un sous produit cancérigène.",
+            "level": 5
+        },
+        {
+            "category": "Divers",
+            "details": "Le mélange cyclamate/saccharine (E954) est probablement cancérigène.",
+            "level": 5
+        }
+    ],
+    "title": "Additif E952i - Acide cyclamique",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

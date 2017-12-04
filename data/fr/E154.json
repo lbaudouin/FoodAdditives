@@ -1,0 +1,27 @@
+{
+    "description": "Utilisé seulement en Angleterre\nBanni dans le reste de l'Europe.",
+    "family": "Colorants  Brun",
+    "image": false,
+    "legal": "Le E154 (Brun FK)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Brun FK"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Les asthmatiques peuvent éprouver des symptômes après consommation de Brun FK",
+            "level": 2
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        }
+    ],
+    "title": "Additif E154 - Brun FK",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

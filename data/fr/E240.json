@@ -1,0 +1,23 @@
+{
+    "description": "Le formaldéhyde est synthétisé à partir de méthanol.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E240 (Formaldéhyde)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Formaldéhyde",
+        "Méthanal"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le Formaldéhyde est cancérigène.",
+            "level": 5
+        }
+    ],
+    "title": "Additif E240 - Formaldéhyde",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,22 @@
+{
+    "description": "Les glycanes sont des polysaccharides/oligosaccharides.\nIls sont, dans le cas de cet additif, extraits de la levure (champignon unicellulaire microscopique) de boulanger (Saccharomyces cerevisiae).",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E408 (Glycane de levure de boulanger) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Glycane de levure de boulanger"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "",
+            "level": 0
+        }
+    ],
+    "title": "Additif E408 - Glycane de levure de boulanger",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

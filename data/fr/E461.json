@@ -1,0 +1,24 @@
+{
+    "description": "Substance macromoléculaire du groupe des glucides caractéristique de la membrane des cellules végétales.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E461 (Méthylcellulose) est autorisé en france",
+    "molecule": "C<sup>6</sup>H<sup>7</sup>O<sup>2</sup>(OR<sup>1</sup>)(OR<sup>2</sup>)(OR<sup>3</sup>) ou R<sup>1,2,3</sup> peuvent etre:\r\n-H\r\n-CH<sup>3</sup>\r\n-CH<sup>2</sup>CH<sup>3</sup>",
+    "names": [
+        "Méthylcellulose",
+        "Ether méthilique de cellulose",
+        "Méthyl-cellulose"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose peut provoquer ballonnements et diarrhées",
+            "level": 1
+        }
+    ],
+    "title": "Additif E461 - Méthylcellulose",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

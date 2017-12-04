@@ -1,0 +1,42 @@
+{
+    "description": "La dose journalière admissible (DJA) retenue par l'Organisation mondiale de la santé est de 40 mg/kg/jour (soit 2,8 g pour un adulte de 70 kg) depuis 1975.\n\nLors de la digestion, l'aspartame perd son groupement hydroxyméthyl (méthanol, composé toxique), puis se décompose en ses deux acides aminés de base, l'acide aspartique et la phénylalanine.\n\nLe méthanol à la dose de 200-500mg/kg de poids corporel a des effets toxiques et risque d'engendrer des troubles de la vision ainsi que du système nerveux central[30]. Le méthanol est dangereux pour l'homme à trop forte concentration. Toutefois, dès sa formation, il est immédiatement rejeté par l'organisme par la respiration.\nLa phénylalanine est un acide aminé présent dans les protéines cependant il est impliquée dans la phénylcétonurie (PKU), une maladie génétique rare (1/15 000 naissances) causant un retard mental grave chez l'enfant atteint.\nL'acide aspartique est un acide aminé, non toxique pour l'organisme.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E951 (Aspartame) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Aspartame"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "A haute dose il peut être dangereux du fait des divers produits toxiques (mais que le corps sait gérer) que sa décomposition entraîne..",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "Il est peu digéré par l'organisme et peu avoir des effets laxatifs.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "Ne doit pas être consommé par les personnes atteintes de phénylcétonurie.",
+            "level": 2
+        },
+        {
+            "category": "Divers",
+            "details": "Une étude danoise, publiée dans The American Journal of Clinical Nutrition associe la consommation de boissons avec aspartame pendant la grossesse avec risque élevé d’accouchement prématuré",
+            "level": 4
+        },
+        {
+            "category": "Divers",
+            "details": "Une étude italienne, a été réalisée par le centre de recherche sur le cancer Ramazzini de Bologne souligne les effets cancérigènes de l’aspartame, uniquement chez la souris et le rat. A confirmer,  les travaux de ce centre ont été critiqués à plusieurs reprises pour vices méthodologiques.",
+            "level": 4
+        }
+    ],
+    "title": "Additif E951 - Aspartame",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

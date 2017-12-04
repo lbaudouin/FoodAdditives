@@ -1,0 +1,28 @@
+{
+    "description": "La triacétine est un triester synthétique de glycérol (E422) et de l'acide acétique (E260).",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E1518 (Triacétate de glycéryle)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Triacétate de glycéryle",
+        "Triacétine"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "lorsqu'il est ingéré.",
+            "level": 0
+        },
+        {
+            "category": "Divers",
+            "details": "irritant pour la peau chez certaines personnes.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E1518 - Triacétate de glycéryle",
+    "usage": "Humectant",
+    "use": "",
+    "version": 1
+}

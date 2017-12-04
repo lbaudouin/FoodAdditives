@@ -1,0 +1,22 @@
+{
+    "description": "Conservateur pour les fromages affinés",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E1105 (Lysozyme)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Lysozyme"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Les personnes allergiques aux œufs y sont très souvent allergiques.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1105 - Lysozyme",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

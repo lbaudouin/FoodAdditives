@@ -1,0 +1,22 @@
+{
+    "description": "Base renfermant au moins un groupement OH-",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E528 (Hydroxyde de magnésium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Hydroxyde de magnésium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose il a des effets laxatifs.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E528 - Hydroxyde de magnésium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

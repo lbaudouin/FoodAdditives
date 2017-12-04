@@ -1,0 +1,35 @@
+{
+    "description": "Se présente sous forme de poudre ou granules rouges, solution aqueuse rouge.\nIl etait autorisé dans très peu d'aliments.",
+    "family": "Colorants  Rouge",
+    "image": false,
+    "legal": "Le E128 (Rouge 2G)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "C<sup>18</sup>H<sup>13</sup>N<sup>3</sup>Na<sup>2</sup>O<sup>8</sup>S<sup>2</sup>\r\nC<sup>18</sup>H<sup>13</sup>N<sup>3</sup>Ca<sup>2</sup>O<sup>8</sup>S<sup>2</sup>\r\nC<sup>18</sup>H<sup>13</sup>N<sup>3</sup>K<sup>2</sup>O<sup>8</sup>S<sup>2</sup>",
+    "names": [
+        "Rouge 2G",
+        "Red 2G",
+        "Food Red 10",
+        "C.I. 18050",
+        "Azophloxine",
+        "Azogéranine",
+        "Azofloxin",
+        "Amidonaphthol red G",
+        "Acid Red 1"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Toxique cancérigène et mutagène.",
+            "level": 5
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        }
+    ],
+    "title": "Additif E128 - Rouge 2G",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

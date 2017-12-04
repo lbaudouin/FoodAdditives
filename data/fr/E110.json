@@ -1,0 +1,34 @@
+{
+    "description": "Sel disodique de l'acide hydroxy-2 (sulfo-4 phénylazo)-1 naphtalènesulfonique-6.",
+    "family": "Colorants  Orange",
+    "image": true,
+    "legal": "Le E110 (Jaune orangé S) est autorisé en france",
+    "molecule": "C<sup>16</sup>H<sup>10</sup>N<sup>2</sup>Na<sup>2</sup>O<sup>7</sup>S<sup>2</sup>\r\nC<sup>16</sup>H<sup>10</sup>N<sup>2</sup>Ca<sup>2</sup>O<sup>7</sup>S<sup>2</sup>\r\nC<sup>16</sup>H<sup>10</sup>N<sup>2</sup>K2</sup>O<sup>7</sup>S<sup>2</sup>",
+    "names": [
+        "Jaune orangé S",
+        "Sunset yellow FCF",
+        "Jaune soleil FCF"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Suspecté d'effets cancérigènes",
+            "level": 4
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        },
+        {
+            "category": "HyperActivité",
+            "details": "En association avec les benzoates (E210-E215), le Jaune orangé S serait impliqué dans un grand pourcentage de cas du syndrome d'hyperactivité chez les enfants.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E110 - Jaune orangé S",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

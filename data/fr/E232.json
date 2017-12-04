@@ -1,0 +1,23 @@
+{
+    "description": "Sel de sodium de l'Orthophénylphénol (E231)\nProduit de synthèse souvent utilisé sur la peau des agrumes pour empêcher la croissance des moisissures.\nIl ne faut pas consommer la peau des produits traités avec cet additif.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E232 (Orthophénylphénate de sodium)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Orthophénylphénate de sodium",
+        "Ortho-phenylphenol de sodium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Irritant pour la peau",
+            "level": 4
+        }
+    ],
+    "title": "Additif E232 - Orthophénylphénate de sodium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

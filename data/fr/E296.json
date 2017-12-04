@@ -1,0 +1,23 @@
+{
+    "description": "Diacide-alcool se trouvant dans les pommes et les fruits acides.\nUtilisé dans les bonbons acides.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E296 (Acide malique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Acide malique",
+        "Acide DL-malique"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Une consommation importante peut irriter la bouche",
+            "level": 2
+        }
+    ],
+    "title": "Additif E296 - Acide malique",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

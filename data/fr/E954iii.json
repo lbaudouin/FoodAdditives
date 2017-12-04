@@ -1,0 +1,22 @@
+{
+    "description": "édulcorant",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E954iii (Saccharine de potassium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Saccharine de potassium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "A très hautes doses cause des cancers de la vessie chez les rats.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E954iii - Saccharine de potassium",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,35 @@
+{
+    "description": "L’acésulfame potassium est un édulcorant puissant. Il possède un pouvoir sucrant 100 à 200 fois plus élevé que le sucre.\nIl a un arrière goût un peu amer.\nUtilisé dans de nombreux produits \"sans sucre\" en association avec d'autres édulcorants pour masquer son arrière goût désagréable.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E950 (Acésulfate de potassium) est autorisé en france",
+    "molecule": "C<sup>4</sup>H<sup>4</sup>KNO<sup>4</sup>S",
+    "names": [
+        "Acésulfate de potassium",
+        "Acésulfame potassium",
+        "Acésulfame K",
+        "Ace K"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "en l'état actuel des connaissances.",
+            "level": 0
+        },
+        {
+            "category": "Divers",
+            "details": "Il est suspecté d'être cancérigène.",
+            "level": 3
+        },
+        {
+            "category": "Divers",
+            "details": "Il est suspecté de dérégler la production d'insuline chez la souris.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E950 - Acésulfate de potassium",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

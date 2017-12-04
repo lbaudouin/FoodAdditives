@@ -1,0 +1,30 @@
+{
+    "description": "Il est utilisé en médecine pour traiter les empoisonnements aux métaux lourds\nIl capture les ions métalliques qu'utilisent les bactéries, ce qui stoppe leur croissance.\nOn les trouve fréquemment dans les shampoings et le gel douche.\nCe produit est polluant.",
+    "family": "Anti-oxydants",
+    "image": false,
+    "legal": "Le E385 (Calcium-dinatrium-EDTA)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Calcium-dinatrium-EDTA",
+        "Ethylène-diamine-tétra-acétate de calcium disodium",
+        "Ethylènediaminesodium calcium",
+        "Ethylène-diamine-tétra-acètate calcio-disodique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Génotoxique probable.",
+            "level": 4
+        },
+        {
+            "category": "Divers",
+            "details": "Cytotoxique(toxique pour les cellules) probable.",
+            "level": 4
+        }
+    ],
+    "title": "Additif E385 - Calcium-dinatrium-EDTA",
+    "usage": "Antioxydant",
+    "use": "",
+    "version": 1
+}

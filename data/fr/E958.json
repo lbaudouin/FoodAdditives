@@ -1,0 +1,27 @@
+{
+    "description": "L’acide glycyrrhizique est contenu naturellement dans la réglisse. Il a une saveur sucrée 30 fois supérieure à celle du sucre.\nSa saveur sucrée est persistante et a un arrière goût caractéristique de réglisse.\nOn peut en trouver dans les chewing-gums ou boissons au goût de réglisse.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E958 (Glycyrrhizine) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Glycyrrhizine",
+        "Liquorice",
+        "Licorice",
+        "Acide lycyrrhizinique",
+        "Acide glycyrrhizique",
+        "Sel d'ammonium de l'acide glycyrrhizique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "La glycyrrhizine peut aggraver l'hypertension artérielle.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E958 - Glycyrrhizine",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

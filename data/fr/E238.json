@@ -1,0 +1,28 @@
+{
+    "description": "Sel ou ester de l'acide formique combiné à ce métal.\nSerait autorisé uniquement dans le fromage Provolone.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E238 (Formiate de calcium)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Formiate de calcium",
+        "Formate de calcium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Irritant.",
+            "level": 4
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E238 - Formiate de calcium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

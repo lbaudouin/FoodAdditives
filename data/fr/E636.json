@@ -1,0 +1,27 @@
+{
+    "description": "Extrait de malt",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E636 (Maltol)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Maltol"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "A hautes doses, provoque chez certaines personnes des douleurs abdominales sans gravité.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "Augmente l'absorption de certain métaux.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E636 - Maltol",
+    "usage": "Exaltateur d'arôme",
+    "use": "",
+    "version": 1
+}

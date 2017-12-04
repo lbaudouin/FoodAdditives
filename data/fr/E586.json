@@ -1,0 +1,18 @@
+{
+    "description": "C'est un antiseptique de synthèse qu'on trouve dans certaines pastilles contre les maux de gorges",
+    "family": "Anti-oxydants",
+    "image": false,
+    "legal": "Le E586 (Hexylrésorcinol)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>12</sup>H<sup>18</sup>O<sup>2</sup>",
+    "names": [
+        "Hexylrésorcinol",
+        "4-Hexylrésorcinol"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E586 - Hexylrésorcinol",
+    "usage": "Agent de rétention de la couleur",
+    "use": "",
+    "version": 1
+}

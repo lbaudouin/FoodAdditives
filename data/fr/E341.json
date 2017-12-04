@@ -1,0 +1,21 @@
+{
+    "description": "Sels de calcium de l'acide phosphorique (E338).\nPrésent dans de nombreux aliments (boissons gazeuses, fromages, jambons et charcuteries entre autres)",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E341 (Orthophosphate de calcium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Orthophosphate de calcium",
+        "Orthophosphate tricalcique",
+        "Orthophosphate monocalcique",
+        "Orthophosphate dicalcique",
+        "Phosphates de calcium"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E341 - Orthophosphate de calcium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

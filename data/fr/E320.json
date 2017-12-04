@@ -1,0 +1,23 @@
+{
+    "description": "Il se présente généralement sous la forme d’une cire blanche ou jaunâtre.\nOn le trouve dans les produit chocolaté, les produit de boulangerie, les sauces et les snacks.",
+    "family": "Anti-oxydants",
+    "image": false,
+    "legal": "Le E320 (Buthylhydroxyanisol)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Buthylhydroxyanisol",
+        "Hydroxyanisol butyle"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le CIRC le classe comme probablement cancérigène.",
+            "level": 4
+        }
+    ],
+    "title": "Additif E320 - Buthylhydroxyanisol",
+    "usage": "Antioxydant",
+    "use": "",
+    "version": 1
+}

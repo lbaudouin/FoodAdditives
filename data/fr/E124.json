@@ -1,0 +1,41 @@
+{
+    "description": "Se présente sous forme de poudre ou granules rougeâtres, solution aqueuse rouge. Malgré son nom, il n'est pas fabriqué à partir de cochenilles.",
+    "family": "Colorants  Rouge",
+    "image": false,
+    "legal": "Le E124 (Ponceau 4R) est autorisé en france",
+    "molecule": "C<sup>20</sup>H<sup>11</sup>N<sup>2</sup>Na<sup>3</sup>O<sup>10</sup>S<sup>3</sup>\r\nC<sup>20</sup>H<sup>11</sup>N<sup>2</sup>Ca<sup>3</sup>O<sup>10</sup>S<sup>3</sup>\r\nC<sup>20</sup>H<sup>11</sup>N<sup>2</sup>K<sup>3</sup>O<sup>10</sup>S<sup>3</sup>",
+    "names": [
+        "Ponceau 4R",
+        "Rouge cochenille A",
+        "New Coccine",
+        "Food Red 7",
+        "Cochineal Red A",
+        "Coccine Nouvelle",
+        "C.I. 16255",
+        "Acid Red 18",
+        "SX purple",
+        "Cochenille rouge A"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Très Probablement cancérigène",
+            "level": 5
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        },
+        {
+            "category": "HyperActivité",
+            "details": "En association avec les benzoates (E210-E215), le Ponceau 4R serait impliqué dans un grand pourcentage de cas du syndrome d'hyperactivité chez les enfants.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E124 - Ponceau 4R",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

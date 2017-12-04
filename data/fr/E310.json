@@ -1,0 +1,22 @@
+{
+    "description": "Le Gallate de propyle est un ester de l'acide gallique et de propanol.",
+    "family": "Anti-oxydants",
+    "image": false,
+    "legal": "Le E310 (Gallate de propyle)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Gallate de propyle"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le CIRC le classe comme probablement cancérigène.",
+            "level": 4
+        }
+    ],
+    "title": "Additif E310 - Gallate de propyle",
+    "usage": "Antioxydant",
+    "use": "",
+    "version": 1
+}

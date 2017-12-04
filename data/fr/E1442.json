@@ -1,0 +1,23 @@
+{
+    "description": "Obtenu en traitant l'amidon avec du trichlorure de phosphoryle qui assemble deux chaînes d'amidon ensemble.\nIl est ensuite estérifié avec de l'oxyde de propylène.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1442 (Phosphate de diamidon hydroxypropylé ) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Phosphate de diamidon hydroxypropylé",
+        "Phosphate de diamidon hydroxy - propylique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifiez qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1442 - Phosphate de diamidon hydroxypropylé",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

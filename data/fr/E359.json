@@ -1,0 +1,18 @@
+{
+    "description": "Sel d'ammoniac de l'acide potassium (E355)",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E359 (Adipate d'ammonium)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Adipate d'ammonium",
+        "Adipates d'ammonium"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E359 - Adipate d'ammonium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

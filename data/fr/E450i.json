@@ -1,0 +1,26 @@
+{
+    "description": "Se présente sous forme de poudre ou granule blanc.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E450i (Diphosphate disodique) est autorisé en france",
+    "molecule": "Na<sup>2</sup>H<sup>2</sup>P<sup>2</sup>O<sup>7</sup>",
+    "names": [
+        "Diphosphate disodique",
+        "Dihydrogéno-pyrophosphate disodique",
+        "Dihydrogéno-diphosphate disodique",
+        "Pyrophosphate de sodium acide",
+        "Pyrophosphate disodique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E450i - Diphosphate disodique",
+    "usage": "Émulsifiant",
+    "use": "Purée Mousline <span style='font-style: italic;'>Maggi</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

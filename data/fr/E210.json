@@ -1,0 +1,22 @@
+{
+    "description": "Il est naturellement présent dans certaines plantes. C'est par exemple l'un des principaux constituants de la gomme benjoin\nL'acide benzoïque est peu soluble dans l'eau.\nIl est produit chimiquement à partir de Toluène.\nL'aspirine est un dérivé de l'acide benzoïque.\nOn le trouve dans les boissons sucrées et les confitures.",
+    "family": "Conservateurs",
+    "image": true,
+    "legal": "Le E210 (Acide benzoïque)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>6</sup>H<sup>5</sup>COOH",
+    "names": [
+        "Acide benzoïque"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "HyperActivité",
+            "details": "En association avec certains colorants les benzoates seraient impliqués dans un grand pourcentage de cas du syndrome d'hyperactivité chez les enfants.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E210 - Acide benzoïque",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

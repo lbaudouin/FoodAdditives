@@ -1,0 +1,25 @@
+{
+    "description": "L'isomalt est un mélange de monosaccharides et de disaccharides hydrogénés;C'est un edulcorant.\nMasse cristaline légèrement hygroscopique blance et inodore.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E953 (Isomalt) est autorisé en france",
+    "molecule": "C<sup>12</sup>H<sup>24</sup>O<sup>11</sup>\r\nC<sup>12</sup>H<sup>24</sup>O<sup>11</sup>.2H<sup>2</sup>O",
+    "names": [
+        "Isomalt",
+        "Isomaltulose hydrogéné",
+        "Isomaltitol",
+        "Palatinose hydrogéné"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "une consommation excessive peut avoir des effets laxatifs.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E953 - Isomalt",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,20 @@
+{
+    "description": "Sel de sodium de l'acide carbonique.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E500ii (Bicarbonate de sodium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Bicarbonate de sodium",
+        "Carbonate acide de sodium",
+        "Hydrogénocarbonate de sodium",
+        "Carbonate monosodique"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E500ii - Bicarbonate de sodium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

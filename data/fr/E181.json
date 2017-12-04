@@ -1,0 +1,23 @@
+{
+    "description": "Il y en a dans le thé,le vin et certains fruits",
+    "family": "Colorants  Rouge",
+    "image": false,
+    "legal": "Le E181 (Tanins) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Tanins",
+        "Tanins de qualité alimentaire"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "En grande quantité, risque de causer une anémie.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E181 - Tanins",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,23 @@
+{
+    "description": "Amidons traités à avec de l'acide octénylsuccinique anhydre.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1450 (Octényle succinate d'amidon sodique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Octényle succinate d'amidon sodique",
+        "Succinate octénylique sodique d'amidon"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifiez qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1450 - Octényle succinate d'amidon sodique",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

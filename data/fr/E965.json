@@ -1,0 +1,23 @@
+{
+    "description": "Le maltitol est utilisé sous deux formes :\nMaltitol (E965i)\nSirop de maltitol (E965ii)\nIl est peu calorique et ne favorise pas les caries.\nTrès utilisé dans les friandises, en particulier les chewing-gums.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E965 (Maltitol) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Maltitol",
+        "Sirop de maltitol"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le maltitol est peu digéré par l'organisme et donne des gaz ou diarrhées.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E965 - Maltitol",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

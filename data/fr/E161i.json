@@ -1,0 +1,22 @@
+{
+    "description": "Utilisé dans les aliments pour animaux.",
+    "family": "Colorants",
+    "image": false,
+    "legal": "Le E161i (Citranaxanthin )  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Citranaxanthin"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose, provoque des troubles de la rétine.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E161i - Citranaxanthin",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

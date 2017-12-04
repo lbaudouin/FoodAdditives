@@ -1,0 +1,20 @@
+{
+    "description": "Sel de potassium de l'acide tartrique (E334).",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E336 (Tartrate de potassium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Tartrate de potassium",
+        "Tartrate monopotassique",
+        "Tartrate dipotassique",
+        "Tartrates de potassium"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E336 - Tartrate de potassium",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

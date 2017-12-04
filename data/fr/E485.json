@@ -1,0 +1,17 @@
+{
+    "description": "Il s'agit d'un ester synthétique d'acide fumarique (E297) et de l'acide stéarique (E570).\nUne seconde réaction chimique permet d'en faire un sel de sodium.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E485 (Stéaroylfumarate de sodium)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Stéaroylfumarate de sodium"
+    ],
+    "origin": "Issu de matières grasses d'origine indeterminée (animale ou végétale)",
+    "risk": [
+    ],
+    "title": "Additif E485 - Stéaroylfumarate de sodium",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,17 @@
+{
+    "description": "Utilisé pour retirer le fer dans les vins rouges.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E391 (Acide phytique)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Acide phytique"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E391 - Acide phytique",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

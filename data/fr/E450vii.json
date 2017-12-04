@@ -1,0 +1,25 @@
+{
+    "description": "Se présente sous forme de poudre ou de cristaux blancs.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E450vii (Pyrophosphate de calcium acide) est autorisé en france",
+    "molecule": "CaH<sup>2</sup>P<sup>2</sup>O<sup>7</sup>",
+    "names": [
+        "Pyrophosphate de calcium acide",
+        "Diphosphate biacide de calcium",
+        "Dihydrogéno-diphosphate de calcium",
+        "Dihydrogéno-pyrophosphate monocalcique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E450vii - Pyrophosphate de calcium acide",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

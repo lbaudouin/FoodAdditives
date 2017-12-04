@@ -1,0 +1,23 @@
+{
+    "description": "Acide non organique. Il est très fréquent dans les sodas.\nC'est un produit de synthèse.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E338 (Acide phosphorique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Acide phosphorique",
+        "Acide orthophosphorique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Suspecté de réduire la densité osseuse",
+            "level": 2
+        }
+    ],
+    "title": "Additif E338 - Acide phosphorique",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

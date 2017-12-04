@@ -1,0 +1,24 @@
+{
+    "description": "Corps résultant de la combinaison de deux atomes d'oxygène avec ce métal.\nInocuité controversée, sert beaucoup pour enrober les dragées et chewing-gum gums. Autorisé seulement en surface.\nEn 2017 un étude française montre que chez le rat, l'ingestion chronique fait apparaitre ou grossir des lésion précancéreuse.\nDes études sont en cour pour savoir si ces lésions peuvent ensuite évoluer en cancer ou non et pour savoir si ce résultat sur le rat est extrapolable a l'homme.",
+    "family": "Colorants  Blanc",
+    "image": false,
+    "legal": "Le E171 (Bixyde de Titane) est autorisé en france",
+    "molecule": "TiO<sup>2</sup>",
+    "names": [
+        "Bixyde de Titane",
+        "Dioxyde de titane",
+        "Bioxyde de titane"
+    ],
+    "origin": "Issu de minéraux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Suspecté d'effets cancérigènes (par ingestion ou inhalation)",
+            "level": 4
+        }
+    ],
+    "title": "Additif E171 - Bixyde de Titane",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

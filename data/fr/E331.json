@@ -1,0 +1,20 @@
+{
+    "description": "Un des sels de sodium de l'acide citrique (E330).\nIl est utilisé dans de nombreux aliments, bonbons, fromages, gelées, boissons gazeuses...",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E331 (Citrates de sodium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Citrates de sodium",
+        "Citrate trisodique",
+        "Citrate monosodique",
+        "Citrate disodique"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E331 - Citrates de sodium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

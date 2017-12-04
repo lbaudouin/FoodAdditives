@@ -1,0 +1,24 @@
+{
+    "description": "Se présente sous forme de cristaux incolore; ou poudre blanche très hygroscopique.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E450v (Diphosphate tétrapotassique) est autorisé en france",
+    "molecule": "K<sup>4</sup>P<sup>2</sup>O<sup>7</sup>",
+    "names": [
+        "Diphosphate tétrapotassique",
+        "Pyrophosphate de potassium",
+        "Pyrophosphate tétrapotassique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E450v - Diphosphate tétrapotassique",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

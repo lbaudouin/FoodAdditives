@@ -1,0 +1,17 @@
+{
+    "description": "Sel d'ammoniac de l'acide fumarique (E297).",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E368 (Fumarate d'ammonium)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Fumarate d'ammonium"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E368 - Fumarate d'ammonium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

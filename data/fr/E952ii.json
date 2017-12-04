@@ -1,0 +1,32 @@
+{
+    "description": "Sel synthétique de calcium de l'acide cyclamique (E952i).\nMême pouvoir sucrant et mêmes applications que l'acide cyclamique (E952i)\nInterdit aux États unis et Angleterre.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E952ii (Cyclamate de calcium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Cyclamate de calcium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Des test sur des rats ont montré des conséquences sur le système reproducteur (atrophie des testicules)",
+            "level": 4
+        },
+        {
+            "category": "Divers",
+            "details": "Des bactéries peuvent dégrader les cyclamates en un sous produit cancérigène.",
+            "level": 5
+        },
+        {
+            "category": "Divers",
+            "details": "Le mélange cyclamate/saccharine (E954) est probablement cancérigène.",
+            "level": 5
+        }
+    ],
+    "title": "Additif E952ii - Cyclamate de calcium",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,24 @@
+{
+    "description": "L'acide guanylique est une molécule qui compose l'ARN des êtres vivants.\nIl est fabriqué de manière synthétique et coûte d'ailleurs relativement cher.",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E626 (Acide guanylique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Acide guanylique",
+        "GMP",
+        "Guanosine monophosphate"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Peux causer des réactions allergiques cutanées.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E626 - Acide guanylique",
+    "usage": "Exaltateur d'arôme",
+    "use": "",
+    "version": 1
+}

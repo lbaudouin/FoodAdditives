@@ -1,0 +1,28 @@
+{
+    "description": "Interdit en Europe.",
+    "family": "Colorants  Rouge",
+    "image": false,
+    "legal": "Le E126 (Ponceau 6R)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Ponceau 6R",
+        "Rouge Ponceau GR",
+        "Crystal scarlet",
+        "Crystal ponceau 6R",
+        "C.I. 16250",
+        "Brilliant crystal scarlet 6R",
+        "Acid Red 44"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        }
+    ],
+    "title": "Additif E126 - Ponceau 6R",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

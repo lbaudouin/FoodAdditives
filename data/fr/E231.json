@@ -1,0 +1,22 @@
+{
+    "description": "Autorisé en surface sur les agrumes",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E231 (Orthophénylphénol)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Orthophénylphénol"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Irritant pour la peau",
+            "level": 4
+        }
+    ],
+    "title": "Additif E231 - Orthophénylphénol",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

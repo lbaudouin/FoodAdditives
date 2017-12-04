@@ -1,0 +1,29 @@
+{
+    "description": "À l'origine, le carmin d'indigo est un colorant naturel extrait de l'indigotier. Maintenant il est fabriqué par synthèse.",
+    "family": "Colorants  Bleu",
+    "image": true,
+    "legal": "Le E132 (Indigotine) est autorisé en france",
+    "molecule": "C<sup>16</sup>H<sup>8</sup>N<sup>2</sup>Na<sup>2</sup>O<sup>8</sup>S<sup>2</sup> ",
+    "names": [
+        "Indigotine",
+        "Carmine d'indigo",
+        "Carmin d'indigo"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Quelques irritations de la peau à haute dose.",
+            "level": 1
+        },
+        {
+            "category": "Allergie",
+            "details": "Allergisant à haute dose.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E132 - Indigotine",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

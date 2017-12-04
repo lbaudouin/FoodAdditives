@@ -1,0 +1,22 @@
+{
+    "description": "Sel de calcium de l'acide inosinique (E630).",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E633 (Inosinate de calcium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Inosinate de calcium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "à priori.",
+            "level": 0
+        }
+    ],
+    "title": "Additif E633 - Inosinate de calcium",
+    "usage": "Exaltateur d'arôme",
+    "use": "",
+    "version": 1
+}

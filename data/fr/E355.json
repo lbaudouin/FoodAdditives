@@ -1,0 +1,22 @@
+{
+    "description": "C'est un acide qui contribue au goût des betteraves.\nC'est un des produits utilisés dans la fabrication du Nylon.\nSa fabrication (chimique) dégage du protoxyde d'azote (gaz hilarant)",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E355 (Acide adipique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Acide adipique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Toxique à hautes doses (supérieures à 3.6 grammes par kilo pour le rat)",
+            "level": 1
+        }
+    ],
+    "title": "Additif E355 - Acide adipique",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

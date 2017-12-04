@@ -1,0 +1,22 @@
+{
+    "description": "C'est un liquide incolore, inflammable et irritant.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E1519 (Alcool benzylique)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "C<sup>6</sup>H<sup>5</sup>CH<sup>2</sup>OH",
+    "names": [
+        "Alcool benzylique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Nocif par inhalation et ingestion.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1519 - Alcool benzylique",
+    "usage": "Humectant",
+    "use": "",
+    "version": 1
+}

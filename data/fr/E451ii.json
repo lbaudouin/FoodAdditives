@@ -1,0 +1,22 @@
+{
+    "description": "Se présente sous forme de granules ou poudre blancs, hygroscopiques.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E451ii (Triphosphate pentapotassique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "K<sup>5</sup>O<sup>10</sup>P<sup>3</sup>",
+    "names": [
+        "Triphosphate pentapotassique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E451ii - Triphosphate pentapotassique",
+    "usage": "Séquestrant",
+    "use": "",
+    "version": 1
+}

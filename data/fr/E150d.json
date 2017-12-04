@@ -1,0 +1,33 @@
+{
+    "description": "Caramel issu de sucres chauffés en présence de sulfite ammoniacal.\nDose journalière des E150abcd (tous confondus) maximale fixée par European Food Safety Authority (EFSA) à 300mg/Kg",
+    "family": "Colorants  Brun",
+    "image": false,
+    "legal": "Le E150d (Caramel au sulfite d'ammonium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Caramel au sulfite d'ammonium",
+        "Caramel IV - procédé au sulfite ammoniacal"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Toxique à hautes doses",
+            "level": 2
+        },
+        {
+            "category": "Divers",
+            "details": "Une des molécules qui se forme lors de la préparation de cet additif est \"peut-être cancérigène\"",
+            "level": 4
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux sulfites.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E150d - Caramel au sulfite d'ammonium",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

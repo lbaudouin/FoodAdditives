@@ -1,0 +1,29 @@
+{
+    "description": "Tri-alcool gras. Produit de synthèse ou végétal (extrait par ex. de la noix de coco).\nSe présente sous forme d' un liquide clair, incolore, hygroscopique et sirupeux ne présentant qu'une legère odeur caractéristique.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E422 (Glycérol) est autorisé en france",
+    "molecule": "C<sup>3</sup>H<sup>8</sup>O<sup>3</sup>",
+    "names": [
+        "Glycérol",
+        "Trihydroxypropane",
+        "Glycérine"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses peut provoquer des diarrhées et flatulences.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "À très hautes doses, il a des effets diurétiques qui peuvent être graves chez les personnes sensibles .",
+            "level": 3
+        }
+    ],
+    "title": "Additif E422 - Glycérol",
+    "usage": "Humectant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,17 @@
+{
+    "description": "L'amylase est une enzyme  digestive qui brise les polysaccharides. C'est elle qui nous fait digérer l'amidon.\nElle est présente dans notre salive et nos intestins.\nElle peut être produite à partir de pancréas de porc ou à partir de champignons.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E1100 (Amylases)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Amylases"
+    ],
+    "origin": "Parfois issu de porcs",
+    "risk": [
+    ],
+    "title": "Additif E1100 - Amylases",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

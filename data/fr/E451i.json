@@ -1,0 +1,17 @@
+{
+    "description": "Se présente sous forme de granules ou poudre blancs, légerement hygroscopiques.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E451i (Triphosphate pentasodique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "Na<sup>5</sup>O<sup>10</sup>P<sup>3</sup>.xH<sup>2</sup>O (X=0 ou 6)",
+    "names": [
+        "Triphosphate pentasodique"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E451i - Triphosphate pentasodique",
+    "usage": "Séquestrant",
+    "use": "",
+    "version": 1
+}

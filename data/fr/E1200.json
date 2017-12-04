@@ -1,0 +1,23 @@
+{
+    "description": "Polymère de glucose et de sorbitol.\nIl est produit à partir de glucose, de sorbitol (E420) et d'acide citrique (E330).\nDans le corps humain, il se comporte comme une fibre alimentaire.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1200 (Polydextrose) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Polydextrose",
+        "Polydextroses A et N"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "A hautes doses (plus de 90 grammes) il a des effet laxatifs.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E1200 - Polydextrose",
+    "usage": "Agent de charge",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,27 @@
+{
+    "description": "Huile minérale, dérivée du pétrole. En principe, n'est pas assimilée par l'organisme humain.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E905d (Huile minérale, viscosité élevée)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Huile minérale, viscosité élevée"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Laxatif",
+            "level": 1
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E905d - Huile minérale, viscosité élevée",
+    "usage": "Agent de glaçage",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,27 @@
+{
+    "description": "Interdit en Europe",
+    "family": "Colorants  Rouge",
+    "image": false,
+    "legal": "Le E125 (Écarlate GN)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Écarlate GN",
+        "Ponceau SX",
+        "FD&C Red No. 4",
+        "C.I. Food Red 2",
+        "C.I. 14700",
+        "Scarlet GN"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        }
+    ],
+    "title": "Additif E125 - Écarlate GN",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

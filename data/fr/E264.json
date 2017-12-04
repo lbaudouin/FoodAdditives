@@ -1,0 +1,22 @@
+{
+    "description": "Sel d'ammoniac de l'acide acétique (E260)\nProduit de façon synthétique à partir de l'acide acétique (E260)",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E264 (Acétate d'ammonium)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Acétate d'ammonium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Toxique à hautes doses",
+            "level": 1
+        }
+    ],
+    "title": "Additif E264 - Acétate d'ammonium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

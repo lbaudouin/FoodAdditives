@@ -1,0 +1,25 @@
+{
+    "description": "Se présente sous forme de liquide transparent, très visqueux.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E476 (Polyricinoléate de polyglycérol)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Polyricinoléate de polyglycérol",
+        "PGPR",
+        "Esters polyglycéroliques de l'acide ricinoléique interesterifié",
+        "Esters polyglycériques d'acides gras polycondensés d'huile de ricin"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Certaines personnes sont allergiques à l'huile de ricin.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E476 - Polyricinoléate de polyglycérol",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

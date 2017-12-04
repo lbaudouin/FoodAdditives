@@ -1,0 +1,22 @@
+{
+    "description": "Gaz toxique jaune verdâtre, d'odeur suffocante, extrait des chlorures naturels.\nSouvent utilisé pour laver les lègumes, présent aussi dans les charcuteries. Dans les légumes dit de la 4e gamme, les quantités sont parfois impressionnantes, à éviter donc si vous allez le même jour à la piscine et buvez l'eau du robinet, elle aussi chlorée",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E925 (Chlore)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Chlore"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Toxique sous sa forme pure.",
+            "level": 4
+        }
+    ],
+    "title": "Additif E925 - Chlore",
+    "usage": "Agent de blanchiment des farines",
+    "use": "",
+    "version": 1
+}

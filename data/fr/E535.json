@@ -1,0 +1,22 @@
+{
+    "description": "Sel complexe combiné avec ce métal.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E535 (Ferrocyanure de sodium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Ferrocyanure de sodium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Des personnes ont tenté de se suicider avec ce produit. Cela n'a produit qu'un léger inconfort.",
+            "level": 0
+        }
+    ],
+    "title": "Additif E535 - Ferrocyanure de sodium",
+    "usage": "Antiagglomérant",
+    "use": "",
+    "version": 1
+}

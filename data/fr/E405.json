@@ -1,0 +1,24 @@
+{
+    "description": "Se présente sous forme de poudre fibreuse ou granuleuse pratiquement inodore, de couleur blanche à jaunâtre.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E405 (Alginate de propylène glycol)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "(C<sup>9</sup>H<sup>14</sup>O<sup>7</sup>)<sup>n</sup> estérifié",
+    "names": [
+        "Alginate de propylène glycol",
+        "Alginate d'hydroxypropyle",
+        "Ester de propylène glycol de l'acide alginique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le propylène glycol est toxique seulement à hautes doses.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E405 - Alginate de propylène glycol",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

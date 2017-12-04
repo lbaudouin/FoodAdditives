@@ -1,0 +1,22 @@
+{
+    "description": "C'est un anti-bactérien synthétique.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E243 (Arginate d'éthyle laurique)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Arginate d'éthyle laurique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Diminution du nombre de globules blancs chez la souris à partir de 47 milligrammes par kilo de poids corporel.",
+            "level": 2
+        }
+    ],
+    "title": "Additif E243 - Arginate d'éthyle laurique",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

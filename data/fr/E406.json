@@ -1,0 +1,30 @@
+{
+    "description": "Il est extrait de certaines souches naturelles d'algues marine des familles GELIDIACEAE et SPHAEROCOCCACEAE et des algues rouges apparentées de la classe des RHODOPHYCEAE.\nL'agar agar est inodore ou présente une legere odeur caracteristique. Il peut être jaunatre orange,jaunatre gris à jaune pale ou incolore.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E406 (Agar agar) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Agar agar",
+        "Layor Carang",
+        "Isinglass du Japon",
+        "Isinglass du Bengale",
+        "Isinglass de Chine",
+        "Isinglass dde Ceylan",
+        "Gélose",
+        "Agar du Japon",
+        "Agar-agar"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses peut causer diarrhée et flatulences",
+            "level": 1
+        }
+    ],
+    "title": "Additif E406 - Agar agar",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

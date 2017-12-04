@@ -1,0 +1,18 @@
+{
+    "description": "Acides aminé présent dans le corps humain.\nLa leucine alimentaire est synthétisée chimiquement.\nElle a un goût sucré.",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E641 (L-Leucine)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "L-Leucine",
+        "Leucine"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E641 - L-Leucine",
+    "usage": "Exaltateur d'arôme",
+    "use": "",
+    "version": 1
+}

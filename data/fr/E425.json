@@ -1,0 +1,25 @@
+{
+    "description": "Polysaccharide extrait du tubercule du konjac, une plante asiatique.\nIl est très peu calorique et riche en fibres.\nC'est un gélifiant qui crée des gels très fermes qui ne peuvent pas être détruits par simple pression de la langue, il faut forcément les mâcher pour les ingérer.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E425 (Konjac)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Konjac",
+        "Farine de konjac",
+        "Glucomannane",
+        "Glucomannane de konjac"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Risque d'étouffement.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E425 - Konjac",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

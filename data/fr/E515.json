@@ -1,0 +1,24 @@
+{
+    "description": "Sel de l'acide sulfurique combiné avec ce métal.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E515 (Sulfate de potassium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Sulfate de potassium",
+        "Sulfate acide de potassium",
+        "Sulfates de potassium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Des doses importantes peuvent entrainer des problèmes gastro-intestinaux.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E515 - Sulfate de potassium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,22 @@
+{
+    "description": "C'est un produit synthétique dérivé du pétrole.\nLe polyéthylène est un plastique.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E914 (Cire de polyéthylène oxydée)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Cire de polyéthylène oxydée"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le polyéthylène est cancérigène quand il est inséré dans le corps humain de manière prolongée (des cas ont été rapportés à cause de stérilets en polyéthylène).",
+            "level": 2
+        }
+    ],
+    "title": "Additif E914 - Cire de polyéthylène oxydée",
+    "usage": "Agent de glaçage",
+    "use": "",
+    "version": 1
+}

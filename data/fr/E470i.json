@@ -1,0 +1,25 @@
+{
+    "description": "Stéarates - trouvé naturellement dans les graisses animales, et plus utile pour faire des bougies",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E470i (Sels d'acides gras de calcium, potassium et sodium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Sels d'acides gras de calcium, potassium et sodium",
+        "Sels de sodium d'acides gras",
+        "Sels de potassium d'acides gras",
+        "Sels de calcium  d'acides gras"
+    ],
+    "origin": "Issu de matières grasses d'origine indeterminée (animale ou végétale)",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Provoqueraient à haute dose (possible, car ces additifs sont très fréquents) des troubles digestifs bénins",
+            "level": 1
+        }
+    ],
+    "title": "Additif E470i - Sels d'acides gras de calcium, potassium et sodium",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

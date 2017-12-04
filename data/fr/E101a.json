@@ -1,0 +1,23 @@
+{
+    "description": "Se présente sous la forme de cristaux Jaune-Orangé.\nConsidérée comme non toxique et même bénéfique à faible dose, il est cependant déconseillé de la consommer à l'excès.\nSous forme de complément alimentaire ou de produit survitaminé (les vitamines, en l'absence de carence ou de pathologie particulière, ne doivent se consommer qu'à faible dose).\nLa vitamine B2 naturelle (rare, car + chère) est le plus souvent extraite d'œufs ou de lait, parfois de foie d'animaux ou de levures vivantes.",
+    "family": "Colorants  Jaune",
+    "image": true,
+    "legal": "Le E101a (Vitamine B2) est autorisé en france",
+    "molecule": "C<sup>17</sup>H<sup>20</sup>N<sup>4</sup>O<sup>6</sup> ",
+    "names": [
+        "Vitamine B2",
+        "Riboflavine"
+    ],
+    "origin": "Parfois issu d'animaux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Sans danger à faible dose",
+            "level": 1
+        }
+    ],
+    "title": "Additif E101a - Vitamine B2",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

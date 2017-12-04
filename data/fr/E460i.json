@@ -1,0 +1,24 @@
+{
+    "description": "Elle est obtenue à partir de pulpe de souche naturelles de matière végétale fibreuses contenant des acides minéraux.\nSe présente sous forme de poudre fine blanche ou presque blanche et inodore.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E460i (Gel de cellulose) est autorisé en france",
+    "molecule": "(C<sup>6</sup>H<sup>10</sup>O<sup>5</sup>)<sup>n</sup>",
+    "names": [
+        "Gel de cellulose",
+        "Cellulose microcristalline",
+        "Cellulose"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose peut provoquer ballonnements et diarrhées",
+            "level": 1
+        }
+    ],
+    "title": "Additif E460i - Gel de cellulose",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,17 @@
+{
+    "description": "Gaz transparent utilisé comme propulseur en droguerie, mais à priori pas en alimentaire.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E946 (Octafluorocyclobutane)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Octafluorocyclobutane"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E946 - Octafluorocyclobutane",
+    "usage": "Propulseur",
+    "use": "",
+    "version": 1
+}

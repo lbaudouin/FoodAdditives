@@ -1,0 +1,22 @@
+{
+    "description": "Il s'agit d'amidon chauffé en présence d'hydroxyde de potassium (E525) ou d'hydroxyde de sodium (E524) . Cela a pour effet de fragmenter l'amidon. Il sera plus rapidement digéré.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1402 (Amidon traité aux alcalis) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Amidon traité aux alcalis"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1402 - Amidon traité aux alcalis",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

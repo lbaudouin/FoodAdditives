@@ -1,0 +1,22 @@
+{
+    "description": "Sel ammoniacal de l'acide chlorhydrique.\nLe chlorure d'ammonium est préparé industriellement par réaction de l'ammoniac avec le chlorure d'hydrogène.\nSe présente sous forme d'une poudre blanche.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E510 (Chlorure d'ammonium)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Chlorure d'ammonium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Toxique à l'état pur.",
+            "level": 2
+        }
+    ],
+    "title": "Additif E510 - Chlorure d'ammonium",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

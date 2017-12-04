@@ -1,0 +1,28 @@
+{
+    "description": "Banni depuis 1984",
+    "family": "Colorants  Jaune",
+    "image": true,
+    "legal": "Le E103 (Chrysoïne S)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "C<sup>12</sup>H<sup>9</sup>N<sup>2</sup>NaO<sup>5</sup>S ",
+    "names": [
+        "Chrysoïne S",
+        "Orcanete"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Dangereux pour les enfants.",
+            "level": 5
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        }
+    ],
+    "title": "Additif E103 - Chrysoïne S",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

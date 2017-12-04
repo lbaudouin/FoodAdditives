@@ -1,0 +1,22 @@
+{
+    "description": "L'Amidon acétylé à l'acétate de vinyle, est une fécule qui est traitée avec de l'acétate de vinyle pour résister à des températures élevées.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1421 (Amidon acétylé à acétate de vinyle )  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Amidon acétylé à acétate de vinyle"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1421 - Amidon acétylé à acétate de vinyle",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

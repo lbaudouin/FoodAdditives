@@ -1,0 +1,38 @@
+{
+    "description": "La quinoléine est un composé hétérocyclique comprenant un cycle benzénique accolé à un cycle de la pyridine, produit par synthèse et ayant des dérivés importants en pharmacie.\nSe présente sous forme de poudre ou granules jaunes.",
+    "family": "Colorants  Jaune",
+    "image": false,
+    "legal": "Le E104 (Jaune de quinoléine) est autorisé en france",
+    "molecule": "C<sup>18</sup>H<sup>9</sup>NNa<sup>2</sup>O<sup>8</sup>S<sup>2</sup> (principal composant)",
+    "names": [
+        "Jaune de quinoléine",
+        "Yellow T",
+        "Resorcinol Yellow",
+        "Quinoline Yellow",
+        "Gold Yellow",
+        "Chrysoine",
+        "Jaune de quinoline"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Irritant.",
+            "level": 3
+        },
+        {
+            "category": "Divers",
+            "details": "Elle pourrait avoir un effet cancérigène et mutagène.",
+            "level": 4
+        },
+        {
+            "category": "HyperActivité",
+            "details": "En association avec les benzoates (E210-E215), le Jaune de quinoléine serait impliqué dans un grand pourcentage de cas du syndrome d'hyperactivité chez les enfants.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E104 - Jaune de quinoléine",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

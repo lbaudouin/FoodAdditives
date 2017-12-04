@@ -1,0 +1,18 @@
+{
+    "description": "C'est le principal acide du raisin.\nIl est fabriqué en utilisant les déchets de l'industrie vinicole.\nIl est présent dans les pâtisseries, boissons légères, vins et confitures.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E334 (Acide tartrique) est autorisé en france",
+    "molecule": "C<sup>4</sup>H<sup>6</sup>O<sup>6</sup>.Sa",
+    "names": [
+        "Acide tartrique",
+        "Acide L-tartrique"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E334 - Acide tartrique",
+    "usage": "Régulateur de l'acidité",
+    "use": "Tic Tac Citron Vert/Orange Colorants Naturels <span style='font-style: italic;'>Ferrero</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

@@ -1,0 +1,26 @@
+{
+    "description": "Corps résultant de la combinaison de l'oxygène avec ce non-métal présent dans la nature sous forme de silice ou de silicates (le silicium représente environ 28% de l'écorce terrestre).",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E551 (Oxyde de silicium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Oxyde de silicium",
+        "Silice amorphe",
+        "Dioxyde de silicium",
+        "Quartz",
+        "Silice"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Il est prudent de ne pas respirer ce produit lorsqu'il est présenté en poudre pour éviter une silicose (fibrose pulmonaire)",
+            "level": 1
+        }
+    ],
+    "title": "Additif E551 - Oxyde de silicium",
+    "usage": "Antiagglomérant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,30 @@
+{
+    "description": "Usage dans les cosmétiques, parfums, déodorants… . Souvent utilisé dans des liquides sucrés.  Présent dans de nombreux médicaments (sirops).",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E216 (Propylparabène)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Propylparabène",
+        "P-hydroxybenzoate de propyle",
+        "Parahydroxybenzoate de propyle",
+        "Para-hydroxybenzoate de propyle"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Risques théoriques : une baisse de la fertilité pour l'homme, et une éventuelle promotion de tumeurs oestrogéno-dépendantes.",
+            "level": 2
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux parabènes.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E216 - Propylparabène",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

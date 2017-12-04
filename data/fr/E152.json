@@ -1,0 +1,27 @@
+{
+    "description": "Son usage est interrompu au États unis et en Europe depuis 1984",
+    "family": "Colorants  Noir",
+    "image": false,
+    "legal": "Le E152 (Noir de carbone)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Noir de carbone"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le CIRC le classe comme probablement cancérigène.",
+            "level": 4
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        }
+    ],
+    "title": "Additif E152 - Noir de carbone",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

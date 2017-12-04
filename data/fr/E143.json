@@ -1,0 +1,32 @@
+{
+    "description": "Colorant synthétique interdit en Union Européenne.",
+    "family": "Colorants  Vert",
+    "image": false,
+    "legal": "Le E143 (Vert solide FCF)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Vert solide FCF"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Très probablement cancérigène et mutagène.",
+            "level": 5
+        },
+        {
+            "category": "Divers",
+            "details": "Effets cancérigènes et mutagènes chez les animaux.",
+            "level": 5
+        },
+        {
+            "category": "Allergie",
+            "details": "Risques d'allergies",
+            "level": 3
+        }
+    ],
+    "title": "Additif E143 - Vert solide FCF",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,25 @@
+{
+    "description": "Il s'agit d'un antimoussant, utilisé dans les huiles et dans le Coca Cola Black.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E900b (Méthylphénylpolysiloxane)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Méthylphénylpolysiloxane",
+        "Diméticone",
+        "Polysilane diméthylpolysiloxane",
+        "PDMS"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "(aucun effet cancérigène chez les animaux, aucune allergie reportée)",
+            "level": 0
+        }
+    ],
+    "title": "Additif E900b - Méthylphénylpolysiloxane",
+    "usage": "Antimoussant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,23 @@
+{
+    "description": "C'est un isomère de la Vitamine C.\nIl n'influence pas l'absorption de la vitamine C.",
+    "family": "Anti-oxydants",
+    "image": false,
+    "legal": "Le E315 (Acide érythorbique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Acide érythorbique",
+        "Acide isoascorbique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Il ne diminue pas l'absorption de la vitamine C.",
+            "level": 0
+        }
+    ],
+    "title": "Additif E315 - Acide érythorbique",
+    "usage": "Antioxydant",
+    "use": "",
+    "version": 1
+}

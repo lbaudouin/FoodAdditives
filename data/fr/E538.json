@@ -1,0 +1,22 @@
+{
+    "description": "Comme le nom le laisse penser, le ferrocyanure a bien un rapport avec l'ion cyanure qui est un poison violent. Il s'agit de cyanures liés à un atome de fer.\nIl s'agit d'un sel de calcium. Quatre ions calcium pour un ion hexacyanoferrate\nLa molécule est heureusement très stable et ne se décompose pas. Aucun risque d'intoxication au cyanure.\nParfois utilisé dans le sel de cuisine",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E538 (Ferrocyanure de calcium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Ferrocyanure de calcium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "à priori.",
+            "level": 0
+        }
+    ],
+    "title": "Additif E538 - Ferrocyanure de calcium",
+    "usage": "Antiagglomérant",
+    "use": "",
+    "version": 1
+}

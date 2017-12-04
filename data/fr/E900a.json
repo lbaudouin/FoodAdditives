@@ -1,0 +1,22 @@
+{
+    "description": "Il s'agit d'un antimoussant, utilisé dans les huiles et dans le Coca Cola Black.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E900a (Polydiméthylsiloxane)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Polydiméthylsiloxane"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "(aucun effet cancérigène chez les animaux, aucune allergie reportée)",
+            "level": 0
+        }
+    ],
+    "title": "Additif E900a - Polydiméthylsiloxane",
+    "usage": "Antimoussant",
+    "use": "",
+    "version": 1
+}

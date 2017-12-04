@@ -1,0 +1,18 @@
+{
+    "description": "Agent de texture végétal, aux propriétés aromatiques, antiphlogistiques, antimicrobiennes et expectorant. Il s'agit de la résine d'un arbre d'Asie du Sud-Est, (famille des styracacées)",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E906 (Gomme Benjoin)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Gomme Benjoin",
+        "Gomme de benjoin"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E906 - Gomme Benjoin",
+    "usage": "Agent de glaçage",
+    "use": "",
+    "version": 1
+}

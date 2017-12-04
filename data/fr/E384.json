@@ -1,0 +1,17 @@
+{
+    "description": "Ester de l'Acide citrique (E330) et de l'isopropanol.\nPermet de capturer les ion métalliques qui font rancir les huiles.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E384 (Citrate d'isopropyle)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Citrate d'isopropyle"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E384 - Citrate d'isopropyle",
+    "usage": "Antioxydant",
+    "use": "",
+    "version": 1
+}

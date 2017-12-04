@@ -1,0 +1,27 @@
+{
+    "description": "Autorisé seulement dans le caviar\nFabriqué chimiquement a partir d'un mineral, la sassolite.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E284 (Acide borique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Acide borique"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose irrite le système digestif",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "À très haute dose risques neurologiques",
+            "level": 3
+        }
+    ],
+    "title": "Additif E284 - Acide borique",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

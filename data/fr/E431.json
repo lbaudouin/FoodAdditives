@@ -1,0 +1,24 @@
+{
+    "description": "Il s'agit d'un ester de l'oxyde d'éthylène et d'un acide gras saturé, l'acide acide stéarique (E570).",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E431 (Polyoxyl 40 stéarate)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Polyoxyl 40 stéarate",
+        "Stéarate de polyoxyéthylène 40",
+        "Monostéarate de polyoxyéthylène 40"
+    ],
+    "origin": "Issu de matières grasses d'origine indeterminée (animale ou végétale)",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergies chez les personnes intolérantes au propylène glycol (E1520)",
+            "level": 3
+        }
+    ],
+    "title": "Additif E431 - Polyoxyl 40 stéarate",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

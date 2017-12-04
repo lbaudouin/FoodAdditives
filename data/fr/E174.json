@@ -1,0 +1,23 @@
+{
+    "description": "Autorisé pour la coloration en surface de certains produits -gâteaux et bonbons- uniquement (enrobage et décorations).",
+    "family": "Colorants  Métal",
+    "image": false,
+    "legal": "Le E174 (Argent)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Argent",
+        "Silver"
+    ],
+    "origin": "Issu de minéraux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Eviter les grosses doses qui colorent la peau et les yeux.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E174 - Argent",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

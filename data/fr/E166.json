@@ -1,0 +1,17 @@
+{
+    "description": "Le santal est le bois d'arbres de la famille des Santalacées.\nC'est un bois rouge. Réduit en poudre, on obtient une couleur rouge orangée.",
+    "family": "Colorants  Rouge",
+    "image": false,
+    "legal": "Le E166 (Bois de santal)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Bois de santal"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E166 - Bois de santal",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,18 @@
+{
+    "description": "Résine jaune et solide obtenue à partir de la thérébentine, utile pour les archets de violon.\nProduit lors de la distillation de résine de pin. Ne pas ingérer (agent d'enrobage).",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E915 (Ester de colophane)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Ester de colophane",
+        "Esters glycéroliques, méthyliques ou penta érithrytoliques de colophane"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E915 - Ester de colophane",
+    "usage": "Agent de glaçage",
+    "use": "",
+    "version": 1
+}

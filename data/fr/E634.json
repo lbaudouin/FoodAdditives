@@ -1,0 +1,23 @@
+{
+    "description": "Mélange de Guanylate de Calcium (E629) et  Inosinate de calcium (E633).",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E634 (Ribonucléotides calciques)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Ribonucléotides calciques",
+        "5'-ribonucléotide calcique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "à priori.",
+            "level": 0
+        }
+    ],
+    "title": "Additif E634 - Ribonucléotides calciques",
+    "usage": "Exaltateur d'arôme",
+    "use": "",
+    "version": 1
+}

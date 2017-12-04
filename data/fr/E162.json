@@ -1,0 +1,23 @@
+{
+    "description": "Jus concentré ou déshydraté de betterave rouge.",
+    "family": "Colorants  Rouge",
+    "image": true,
+    "legal": "Le E162 (Rouge de betterave) est autorisé en france",
+    "molecule": "C<sup>24</sup>H<sup>27</sup>N<sup>2</sup>O<sup>13</sup>",
+    "names": [
+        "Rouge de betterave",
+        "Bétanine"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": ". À forte dose, amusant effet de coloration des urines en rose-rouge",
+            "level": 0
+        }
+    ],
+    "title": "Additif E162 - Rouge de betterave",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

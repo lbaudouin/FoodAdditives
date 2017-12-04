@@ -1,0 +1,36 @@
+{
+    "description": "Sel monosodique du sel interne hydroxyde de N-méthyl N-[[diméthylamino-4 phényl) (hydroxy-2 disulfo-3,6 naphtyl) méthylènel-4 cyclohexadiène-2,5 ylidène-1] méthaneaminylium]",
+    "family": "Colorants  Vert",
+    "image": false,
+    "legal": "Le E142 (Vert brillant BS) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Vert brillant BS",
+        "Vert S",
+        "Vert Lissamine",
+        "Lissamine Green B",
+        "Green S",
+        "Food Green S",
+        "FD&C Green 4",
+        "C.I. 44090",
+        "Acid green 50",
+        "Wool Green S"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        },
+        {
+            "category": "HyperActivité",
+            "details": "En association avec les benzoates (E210-E215), le Vert brillant BS serait impliqué dans un grand pourcentage de cas du syndrome d'hyperactivité chez les enfants.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E142 - Vert brillant BS",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

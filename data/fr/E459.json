@@ -1,0 +1,18 @@
+{
+    "description": "La bêta-cyclodextrine est un saccharide cyclique non réducteur composé de sept unités D-glucopyranosyl\nreliées en \u0001-1,4. Le produit est obtenu par l’action de l’enzyme cycloglycosyltransférase (CGTase) produite par\nBacillus circulans, Paenibacillus macerans ou par la souche SJ1608 recombinée de Bacillus licheniformis sur\nde l’amidon partiellement hydrolysé.\nSe présente sous forme de solide cristallin blanc ou presque blanc, pratiquement inodore.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E459 (Bêta-cyclodextrine)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "(C<sup>6</sup>H<sup>10</sup>O<sup>5</sup>)<sup>7</sup>",
+    "names": [
+        "Bêta-cyclodextrine",
+        "Cyclodextrine"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E459 - Bêta-cyclodextrine",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

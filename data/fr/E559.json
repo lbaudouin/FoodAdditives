@@ -1,0 +1,28 @@
+{
+    "description": "Silicate d'aluminium Roche argileuse blanche et friable composée essentiellement de kaolinite.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E559 (Kaolin)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Kaolin",
+        "Silicate d'aluminium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Irritant lorsqu'il est inhalé.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "L'aluminium est aujourd'hui considéré comme un neurotoxique.",
+            "level": 4
+        }
+    ],
+    "title": "Additif E559 - Kaolin",
+    "usage": "Antiagglomérant",
+    "use": "",
+    "version": 1
+}

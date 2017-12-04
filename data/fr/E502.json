@@ -1,0 +1,17 @@
+{
+    "description": "Il s'agit des différents sels de l'acide carbonique, de E503 à E505.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E502 (Carbonates)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Carbonates"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E502 - Carbonates",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

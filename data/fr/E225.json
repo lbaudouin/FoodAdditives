@@ -1,0 +1,23 @@
+{
+    "description": "Il s'agit d'un sel de potassium du sulfite.\nOn trouve cet additif de synthèse dans les fruits secs et les vins.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E225 (Sulfite de potassium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Sulfite de potassium",
+        "Potassium sulfite"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux sulfites.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E225 - Sulfite de potassium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

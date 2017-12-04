@@ -1,0 +1,28 @@
+{
+    "description": "Les parabens sont des esters d'alcools et d'acide parahydroxybenzoïque.\nIl existe plusieurs parabens.\nSix parabens sont des additifs alimentaires.\nÉthylparabène (E214)\nÉthylparabène sodique (E215)\nPropylparabène (E216)\nPropylparabène sodique (E217)\nMethylparabène (E218)\nMethylparabène sodique (E219)\nIl sont beaucoup utilisés dans les produits de beauté, relativement rare en alimentation, mais on peut les trouver dans certains médicaments.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E209 (Para-Hydroxybenzoate d'hépthyle)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Para-Hydroxybenzoate d'hépthyle",
+        "Paraben"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "risques théoriques : une baisse de la fertilité pour l'homme, et une éventuelle promotion de tumeurs oestrogéno-dépendantes.",
+            "level": 2
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux parabènes.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E209 - Para-Hydroxybenzoate d'hépthyle",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

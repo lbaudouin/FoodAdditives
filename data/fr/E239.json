@@ -1,0 +1,24 @@
+{
+    "description": "Antibiotique de synthèse.\nSe décompose en Formaldéhyde dans les voies urinaires.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E239 (Hexaméthyline tétramine)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Hexaméthyline tétramine",
+        "Hexaméthylènetétramine",
+        "Hexaméthylène-tétramine"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le Formaldéhyde est cancérigène.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E239 - Hexaméthyline tétramine",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

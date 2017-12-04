@@ -1,0 +1,27 @@
+{
+    "description": "Il a d'abord été trouvé dans des champignon comestibles. On le trouve aussi dans des algues, bactéries, crustacés, et poissons.",
+    "family": "Colorants  Orange",
+    "image": true,
+    "legal": "Le E161g (Canthaxanthine)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>40</sup>H<sup>52</sup>O<sup>2</sup>",
+    "names": [
+        "Canthaxanthine"
+    ],
+    "origin": "Parfois issu de poisson",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose, change la couleur de la peau.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "À haute dose, provoque des troubles irréversibles de la rétine.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E161g - Canthaxanthine",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,18 @@
+{
+    "description": "Les polyphosphates sont des chaînes de phosphates.\nIci, il s'agit de sel ammoniacal de polyphosphates.\nC'est un produit qui a été utilisé dans les lessives et l'est encore dans les engrais.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E545 (Polyphosphates d'ammonium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Polyphosphates d'ammonium",
+        "Ammonium polyphosphate"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E545 - Polyphosphates d'ammonium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

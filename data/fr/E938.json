@@ -1,0 +1,17 @@
+{
+    "description": "Gaz inerte.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E938 (Argon) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Argon"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E938 - Argon",
+    "usage": "Propulseur",
+    "use": "",
+    "version": 1
+}

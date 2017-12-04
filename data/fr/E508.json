@@ -1,0 +1,22 @@
+{
+    "description": "Sel de l'acide chloridrique combiné avec ce métal.\nSe présente sous forme de cristaux incolore, allongés, prismatiques ou cubiques, ou poudre blanche granuleuse. Inodore.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E508 (Chlorure de potassium) est autorisé en france",
+    "molecule": "KCl",
+    "names": [
+        "Chlorure de potassium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Toxique à très haute dose (150 grammes)",
+            "level": 1
+        }
+    ],
+    "title": "Additif E508 - Chlorure de potassium",
+    "usage": "Gélifiant",
+    "use": "",
+    "version": 1
+}

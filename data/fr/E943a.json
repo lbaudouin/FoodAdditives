@@ -1,0 +1,27 @@
+{
+    "description": "C'est un hydrocarbure obtenu par distillation du GPL ou du gaz naturel.\nIl semble être rarement utilisé en alimentation.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E943a (Butane)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Butane"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Peut provoquer des somnolences lorsqu'il est inhalé.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "Inflammable",
+            "level": 1
+        }
+    ],
+    "title": "Additif E943a - Butane",
+    "usage": "Propulseur",
+    "use": "",
+    "version": 1
+}

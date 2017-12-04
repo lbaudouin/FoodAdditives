@@ -1,0 +1,22 @@
+{
+    "description": "Le talc",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E553iii (Talc)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Talc"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Irritant lorsqu'il est inhalé.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E553iii - Talc",
+    "usage": "Antiagglomérant",
+    "use": "",
+    "version": 1
+}

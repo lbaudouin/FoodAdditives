@@ -1,0 +1,18 @@
+{
+    "description": "Sel de potassium de l'acide carbonique.\nLe carbonate de potassium est très soluble dans l'eau et donne des solutions basiques.\nIl est fabriqué à partir du carbonate de potassium (E501i) en le faisant réagir avec de l'eau et du dioxyde de carbone (E290).",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E501ii (Bicarbonate de potassium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Bicarbonate de potassium",
+        "Hydrogénocarbonate de potassium"
+    ],
+    "origin": "Issu de minéraux",
+    "risk": [
+    ],
+    "title": "Additif E501ii - Bicarbonate de potassium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

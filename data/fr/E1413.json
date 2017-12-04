@@ -1,0 +1,23 @@
+{
+    "description": "Obtenu en traitant l'amidon avec du trichlorure de phosphoryle qui assemble deux chaînes d'amidon ensemble et en le traitant ensuite avec de l'acide orthophosphorique (E338)",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1413 (Phosphate de diamidon phosphaté ) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Phosphate de diamidon phosphaté",
+        "Phosphate de diamidon phosphate"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1413 - Phosphate de diamidon phosphaté",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

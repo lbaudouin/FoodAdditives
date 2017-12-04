@@ -1,0 +1,18 @@
+{
+    "description": "Corps résultant de la combinaison d'un atome d'oxygène avec ce métal.\nAutorisé seulement en surface",
+    "family": "Colorants  Diverses",
+    "image": false,
+    "legal": "Le E172 (Oxydes de fer) est autorisé en france",
+    "molecule": "Iron Oxide Yellow: FeO(OH) · xH<sup>2</sup>O\r\nIron Oxide Red: Fe<sup>2</sup>O<sup>3</sup>\r\nIron Oxide Black: FeO · Fe<sup>2</sup>O<sup>3</sup>",
+    "names": [
+        "Oxydes de fer",
+        "Oxyde et hydroxyde de fer"
+    ],
+    "origin": "Issu de minéraux",
+    "risk": [
+    ],
+    "title": "Additif E172 - Oxydes de fer",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

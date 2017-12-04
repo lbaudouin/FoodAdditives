@@ -1,0 +1,22 @@
+{
+    "description": "Il s'agit d'un polymère synthétique.\nLa forme monomère est cancérigène et très toxique pour la vie aquatique.\nUtilisé dans les boissons, les dentifrices et les shampoings.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1201 (Polyvinylpyrrolidone)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Polyvinylpyrrolidone"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "peut-être cancérigène chez l'animal.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1201 - Polyvinylpyrrolidone",
+    "usage": "Raffermissant",
+    "use": "",
+    "version": 1
+}

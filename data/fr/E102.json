@@ -1,0 +1,33 @@
+{
+    "description": "Se présente sous forme de poudre ou granules orange clair, jaune en solution dans l'eau.",
+    "family": "Colorants  Jaune",
+    "image": true,
+    "legal": "Le E102 (Tartrazine) est autorisé en france",
+    "molecule": "C<sup>16</sup>H<sup>9</sup>N<sup>4</sup>Na<sup>3</sup>O<sup>9</sup>S<sup>2</sup> \r\nC<sup>16</sup>H<sup>9</sup>N<sup>4</sup>Ca<sup>3</sup>O<sup>9</sup>S<sup>2</sup> \r\nC<sup>16</sup>H<sup>9</sup>N<sup>4</sup>K<sup>3</sup>O<sup>9</sup>S<sup>2</sup> ",
+    "names": [
+        "Tartrazine",
+        "Acid Yellow 23"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Les asthmatiques peuvent éprouver des symptômes après consommation de tartrazine.",
+            "level": 2
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        },
+        {
+            "category": "HyperActivité",
+            "details": "En association avec les benzoates (E210-E215), la tartrazine serait impliquée dans un grand pourcentage de cas du syndrome d'hyperactivité chez les enfants.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E102 - Tartrazine",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

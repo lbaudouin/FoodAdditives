@@ -1,0 +1,22 @@
+{
+    "description": "La cystine est un acide aminé.\nIl s'agit de deux cystéines (E920) assemblées.\nLes cheveux contiennent environ 5% de cystine.\nCet agent de traitement est fabriqué à partir de la cystéine (E920) car elle s'oxyde facilement en cystine.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E921 (Cystine)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Cystine"
+    ],
+    "origin": "Issu d'animaux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "La cystine favorise la formation de calculs rénaux chez les personnes atteintes de cystinurie.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E921 - Cystine",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,25 @@
+{
+    "description": "Végétal, Cyamopsis tetragonolobus (L.), une légumineuse d'Inde (un haricot). Autorisée logo AB. Usage en phytothérapie pour ralentir la métabolisation des sucres et pour réduire le taux de cholesterol LDL\nSe présente sous forme de poudre pratiquement inodore, de couleur blanche à jaunatre.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E412 (Gomme de Guar) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Gomme de Guar",
+        "Gomme cyamopsis",
+        "Farine de guar",
+        "Gomme guar"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses peut provoquer des flatulences.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E412 - Gomme de Guar",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

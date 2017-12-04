@@ -1,0 +1,29 @@
+{
+    "description": "Usage dans les cosmétiques, parfums, déodorants… . Souvent utilisé dans des liquides sucrés.  Présent dans de nombreux médicaments (sirops).",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E219 (Methylparabène sodique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Methylparabène sodique",
+        "Para-hydroxybenzoate de méthyle sodique",
+        "Dérivé sodique de l'ester méthylique de l'acide p-hydroxybenzoïque"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Risques théoriques : une baisse de la fertilité pour l'homme, et une éventuelle promotion de tumeurs oestrogéno-dépendantes.",
+            "level": 2
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux parabènes.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E219 - Methylparabène sodique",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

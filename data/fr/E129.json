@@ -1,0 +1,27 @@
+{
+    "description": "Se présente sous forme de poudre ou granules rouge foncé, solution aqueuse rouge.",
+    "family": "Colorants  Rouge",
+    "image": true,
+    "legal": "Le E129 (Rouge allura AC)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>18</sup>H<sup>14</sup>N<sup>2</sup>Na<sup>2</sup>O<sup>8</sup>S<sup>2</sup>\r\nC<sup>18</sup>H<sup>14</sup>N<sup>2</sup>Ca<sup>2</sup>O<sup>8</sup>S<sup>2</sup>\r\nC<sup>18</sup>H<sup>14</sup>N<sup>2</sup>K<sup>2</sup>O<sup>8</sup>S<sup>2</sup>",
+    "names": [
+        "Rouge allura AC"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        },
+        {
+            "category": "HyperActivité",
+            "details": "En association avec les benzoates (E210-E215), le Rouge allura AC serait impliqué dans un grand pourcentage de cas du syndrome d'hyperactivité chez les enfants.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E129 - Rouge allura AC",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

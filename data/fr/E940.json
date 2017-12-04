@@ -1,0 +1,22 @@
+{
+    "description": "C'est un gaz CFC extrêmement polluant (desctructeur de la couche d'ozone) il n'est plus utilisé.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E940 (Dichlorodifluorométhane)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Dichlorodifluorométhane"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Polluant",
+            "level": 3
+        }
+    ],
+    "title": "Additif E940 - Dichlorodifluorométhane",
+    "usage": "Propulseur",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,28 @@
+{
+    "description": "Substance organique comportant six fonctions alcool, à goût sucré, existant dans la manne du frêne.\nPolyol à l'origine, extrait du frêne. Donne un goût sucré, non cariogène et peu influent sur le taux d'insuline (sa métabolisation est assez lente), ce qui le fait utiliser comme substitut du glucose. Laxatif à haute dose.",
+    "family": "Édulcorants",
+    "image": false,
+    "legal": "Le E421 (Mannitol) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Mannitol",
+        "Mannite"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses peut provoquer des diarrhées et flatulences.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "À très hautes doses, il a des effets diurétiques qui peuvent être graves chez les personnes sensibles .",
+            "level": 3
+        }
+    ],
+    "title": "Additif E421 - Mannitol",
+    "usage": "Édulcorant",
+    "use": "",
+    "version": 1
+}

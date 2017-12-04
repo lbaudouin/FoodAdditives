@@ -1,0 +1,22 @@
+{
+    "description": "Arabinogalactan est un biopolymère (Polysaccharide) qu'on trouve dans certaines plantes et certains microbes. C'est un des principaux composants de la gomme arabique (E414).",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E409 (Arabinogalactane)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Arabinogalactane"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses peut provoquer des flatulences.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E409 - Arabinogalactane",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

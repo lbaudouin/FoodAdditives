@@ -1,0 +1,23 @@
+{
+    "description": "Sel de l'acide sulfurique combiné avec ce métal.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E514 (Sulfate de sodium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Sulfate de sodium",
+        "Sulfate acide de sodium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Peut entrainer des diarrhées.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E514 - Sulfate de sodium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

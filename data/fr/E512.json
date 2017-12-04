@@ -1,0 +1,18 @@
+{
+    "description": "Le chlorure d'étain peut être préparé en dissolvant de l'étain métallique dans de l'acide chlorhydrique, la réaction prend du temps.",
+    "family": "Anti-oxydants",
+    "image": false,
+    "legal": "Le E512 (Chlorure d'étain)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Chlorure d'étain",
+        "Chlorure stanneux"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E512 - Chlorure d'étain",
+    "usage": "Antioxydant",
+    "use": "",
+    "version": 1
+}

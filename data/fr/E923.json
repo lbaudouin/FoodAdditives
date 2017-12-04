@@ -1,0 +1,17 @@
+{
+    "description": "C'est un sel de synthèse d'ammoniac et de deux sulfates.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E923 (Persulfate d'ammonium)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Persulfate d'ammonium"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E923 - Persulfate d'ammonium",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,23 @@
+{
+    "description": "C'est un acide très puissant fabriqué par synthèse.\nIl existe à l'état naturel... dans votre estomac, c'est le composant principal des acides gastriques.\nIl permet de réguler l'acidité des liquides.\nIl est très rarement utilisé dans des aliments.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E507 (Acide hydrochlorique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Acide hydrochlorique",
+        "Acide chlorhydrique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Sans danger à très faibles doses, plus la dose augmente et plus le produit est irritant, jusqu'à devenir dangereux, car très corrosif.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E507 - Acide hydrochlorique",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

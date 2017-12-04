@@ -1,0 +1,23 @@
+{
+    "description": "Corps résultant de la combinaison de l'oxygène avec ce métal.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E530 (Oxyde de magnésium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Oxyde de magnésium",
+        "Magnésie"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "corrosif sous sa forme pure.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E530 - Oxyde de magnésium",
+    "usage": "Antiagglomérant",
+    "use": "",
+    "version": 1
+}

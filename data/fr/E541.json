@@ -1,0 +1,24 @@
+{
+    "description": "Sel de l'acide phosphorique combiné avec ces métaux.\nEn principe, il n'est pas assimilable par le corps humain (contrairement aux hydroxydes, sulfates, nitrates et clhorures d'aluminium). Et c'est tant mieux, car l'aluminium est désormais classé parmi les violents neurotoxiques",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E541 (Acide aluminoisodique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Acide aluminoisodique",
+        "Phosphate d'aluminium sodique acide",
+        "Phosphate de sodium-aluminium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "L'aluminium est neurotoxique à hautes doses.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E541 - Acide aluminoisodique",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,23 @@
+{
+    "description": "Très fréquents dans les fruits secs (ex. : abricots secs, autorisés jusqu'à 2000 mg/kg), pomme de terre déshydratées, moutardes et yaourts aux fruits.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E224 (Disulfite de potassium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Disulfite de potassium",
+        "Métabisulfite de potassium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux sulfites.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E224 - Disulfite de potassium",
+    "usage": "Conservateur",
+    "use": "Moutarde Fine de Dijon <span style='font-style: italic;'>Maille</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

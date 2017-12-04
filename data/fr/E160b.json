@@ -1,0 +1,25 @@
+{
+    "description": "Pigment rouge-orangé extrait de l'enveloppe de sa graine du fruit du Rocouyer (arbuste de l'Amérique tropicale).",
+    "family": "Colorants  Orange",
+    "image": false,
+    "legal": "Le E160b (Roccou)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Roccou",
+        "Norbixine",
+        "Bixine",
+        "Extraits d'annato"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E160b - Roccou",
+    "usage": "Colorant",
+    "use": "Riz au lait Rhum Raisin <span style='font-style: italic;'>La laitière</span>, La baguette de Kernevel <span style='font-style: italic;'>Paysan Breton</span> (Fromage).\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

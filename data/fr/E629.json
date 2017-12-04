@@ -1,0 +1,22 @@
+{
+    "description": "Sel de calcium de l'acide guanylique (E626).",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E629 (Guanylate de Calcium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Guanylate de Calcium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Peut causer des réactions allergiques cutanées.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E629 - Guanylate de Calcium",
+    "usage": "Exaltateur d'arôme",
+    "use": "",
+    "version": 1
+}

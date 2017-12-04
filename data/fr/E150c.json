@@ -1,0 +1,29 @@
+{
+    "description": "Caramel issu de sucres chauffés en présence d'ammoniaque.\nDose journalière des E150abcd (tous confondus) maximale fixée par European Food Safety Authority (EFSA) à 300mg/Kg.\nMais la dose journalière maximale fixée depuis Février 2011 par European Food Safety Authority (EFSA) pour le E150c ne peut dépasser 100mg/Kg.\nLa dose est plus basse à cause d'effets possibles sur le système immunitaire (selon des tests sur animaux) dus à une molécule qui se forme lors de la fabrication.\nLe CIRC a placé la molécule qui se forme (le 4 methylimidazole) dans la liste 2B \"peut-être cancérigène\".",
+    "family": "Colorants  Brun",
+    "image": false,
+    "legal": "Le E150c (Caramel ammoniacal) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Caramel ammoniacal",
+        "Caramel III - procédé à l'ammoniaque",
+        "Caramel ammoniac"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Toxique à haute dose.",
+            "level": 2
+        },
+        {
+            "category": "Divers",
+            "details": "Une des molécules qui se forme lors de la préparation de cet additif est \"peut-être cancérigène\"",
+            "level": 4
+        }
+    ],
+    "title": "Additif E150c - Caramel ammoniacal",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

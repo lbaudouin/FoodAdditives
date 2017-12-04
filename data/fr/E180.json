@@ -1,0 +1,20 @@
+{
+    "description": "Sels calciques et d'aluminium de l'acide hydroxy-2 (méthyl-4 sulfo-2 phénylazo) naphtalène-carboxylique-3",
+    "family": "Colorants  Rubis",
+    "image": true,
+    "legal": "Le E180 (Pigments rubine)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>18</sup>H<sup>12</sup>N<sup>2</sup>Na<sup>2</sup>O<sup>6</sup>S",
+    "names": [
+        "Pigments rubine",
+        "Tannic Acid",
+        "Lithol-rubine BK",
+        "Fuchsine lithol BK"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+    ],
+    "title": "Additif E180 - Pigments rubine",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

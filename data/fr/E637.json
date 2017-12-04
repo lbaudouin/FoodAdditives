@@ -1,0 +1,18 @@
+{
+    "description": "Produit de synthèse.\nIl dégage une très agréable odeur de fruit cuit.",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E637 (Isomaltol)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Isomaltol",
+        "Ethyl-maltol"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+    ],
+    "title": "Additif E637 - Isomaltol",
+    "usage": "Exaltateur d'arôme",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,24 @@
+{
+    "description": "Sel de sodium de l'acide nitrique.\nAdditif de synthèse, utilisé comment fertilisant.\nC'est un antimicrobien peu utilisé.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E251 (Salpêtre du Chili)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "NaNO<sup>3</sup>",
+    "names": [
+        "Salpêtre du Chili",
+        "Salpêtre cubique",
+        "Nitrate de sodium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À dose importante, risque de méthémoglobinémie (globules rouges inefficaces à transporter l'oxygène). À éviter pour les enfants.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E251 - Salpêtre du Chili",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

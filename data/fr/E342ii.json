@@ -1,0 +1,17 @@
+{
+    "description": "Sel d'ammoniac de l'acide phosphorique (E338).",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E342ii (Orthophosphate diammonié)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Orthophosphate diammonié"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E342ii - Orthophosphate diammonié",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

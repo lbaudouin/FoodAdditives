@@ -1,0 +1,17 @@
+{
+    "description": "Le sorbate de sodium est produit par synthèse.\nIl s'agit d'un sel de sodium de l'acide sorbique.\nIl est nettement plus soluble dans l'eau que celui-ci.\nOn le trouve dans de nombreux aliments tels que les yaourts, confiseries, sodas, fromages, produits de pâtisserie et boulangerie.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E201 (Sorbate de sodium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Sorbate de sodium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+    ],
+    "title": "Additif E201 - Sorbate de sodium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

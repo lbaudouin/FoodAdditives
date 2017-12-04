@@ -1,0 +1,22 @@
+{
+    "description": "Additif synthétique.\nFongicide, utilisé en particulier pour conserver les cornichons et les fraises.\nPlus soluble dans l'eau que l'acide déhydracétique (E265).",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E266 (Déhydroacétate de sodium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Déhydroacétate de sodium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses, cause des insuffisances rénales.",
+            "level": 2
+        }
+    ],
+    "title": "Additif E266 - Déhydroacétate de sodium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

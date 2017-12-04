@@ -1,0 +1,34 @@
+{
+    "description": "Cet additifs se decompose en deux variétés. Les polyphosphates solubles (1) et les insolubles (2).\n(1)Se présente sous forme de plaquette granules ou poudre incolores ou blanche,transparentes.\n(2)Se présente sous forme de poudre cristaline blanche.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E452i (Sel de Graham) est autorisé en france",
+    "molecule": "(1) et (2) : H(<sup>n+2</sup>)PnO(<sup>3n+1</sup>)",
+    "names": [
+        "Sel de Graham",
+        "Polyphosphate de sodium",
+        "Sel de Maddrell",
+        "Polyphosphates de sodium vitreux",
+        "Polyphosphates de sodium",
+        "Polyphosphate sodique",
+        "Polyphosphate de sodium insoluble",
+        "Polymétaphosphate de sodium",
+        "Métaphosphate de sodium insoluble",
+        "Métaphosphate de sodium",
+        "IMP",
+        "Héxamétaphosphate de sodium",
+        "Tétrapolyphosphate de sodium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E452i - Sel de Graham",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

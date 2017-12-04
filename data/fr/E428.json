@@ -1,0 +1,17 @@
+{
+    "description": "Mes informations me donnent deux numéros pour cet additifs.\nPour le moment, une seule page est complète,  vous pouvez aller lire <a href=\"/E441-.php\">l'autre page plus complète</a>.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E428 (Gélatine)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Gélatine"
+    ],
+    "origin": "Issu de porcs",
+    "risk": [
+    ],
+    "title": "Additif E428 - Gélatine",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

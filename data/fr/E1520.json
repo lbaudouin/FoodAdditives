@@ -1,0 +1,33 @@
+{
+    "description": "Produit de synthèse.\nIl a beaucoup d'applications autres qu'alimentaires (antigel, crème hydratante, machines à fumée...)",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E1520 (Propylène glycol)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Propylène glycol",
+        "Propylèneglycolane-1,2-diol"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Dangereux pour les personnes qui ont des problèmes de reins.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "Toxique pour les chats et les chiens.",
+            "level": 1
+        },
+        {
+            "category": "Allergie",
+            "details": "Certaines personnes sont sensibles à ce produit.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1520 - Propylène glycol",
+    "usage": "Humectant",
+    "use": "",
+    "version": 1
+}

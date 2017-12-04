@@ -1,0 +1,23 @@
+{
+    "description": "Sel de sodium et calcium de l'acide polyphosphorique.\nLes polyphosphates sont souvent utilisés dans les jambons (et autres charcuteries), pour retenir l'eau et assurer une meilleure tenue du produit.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E452iii (Polyphosphate calco-sodique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Polyphosphate calco-sodique",
+        "Polyphosphate de sodium-calcium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E452iii - Polyphosphate calco-sodique",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

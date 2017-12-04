@@ -1,0 +1,22 @@
+{
+    "description": "Gaz hilarant.\nToxique, mais usage seulement de gaz propulseur. Gaz à effet de serre",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E942 (Protoxyde d'azote) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Protoxyde d'azote"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose, il peut être dangereux.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E942 - Protoxyde d'azote",
+    "usage": "Propulseur",
+    "use": "",
+    "version": 1
+}

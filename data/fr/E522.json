@@ -1,0 +1,22 @@
+{
+    "description": "L'aluminium est aujourd'hui considéré comme un neurotoxique. Il interviendrait notamment dans le déclenchement de la maladie d'Alzheimer. Au vu des nouvelles études, chaque fois plus inquiétantes, il est prudent d'éviter d'ingérer ce métal.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E522 (Sulfate d'aluminium potassique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Sulfate d'aluminium potassique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "L'aluminium est aujourd'hui considéré comme un neurotoxique",
+            "level": 4
+        }
+    ],
+    "title": "Additif E522 - Sulfate d'aluminium potassique",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

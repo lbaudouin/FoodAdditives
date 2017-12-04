@@ -1,0 +1,17 @@
+{
+    "description": "Sel de sodium de l'acide carbonique.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E500 (Carbonates de sodium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Carbonates de sodium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+    ],
+    "title": "Additif E500 - Carbonates de sodium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

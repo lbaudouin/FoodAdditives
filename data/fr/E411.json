@@ -1,0 +1,27 @@
+{
+    "description": "Polysaccharide produit à partir d'avoine.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E411 (Gomme d'avoine) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Gomme d'avoine"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses peut provoquer des flatulences.",
+            "level": 1
+        },
+        {
+            "category": "Allergie",
+            "details": "Ne convient pas aux intolérants au gluten.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E411 - Gomme d'avoine",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,22 @@
+{
+    "description": "Amidon oxydé par de l'hypochlorite de sodium (eau de javel)\nL'oxydation de l'amidon crée des groupes carboxyles, il devient donc un acide.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1404 (Amidon oxydé) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Amidon oxydé"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1404 - Amidon oxydé",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

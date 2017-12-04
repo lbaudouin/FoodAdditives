@@ -1,0 +1,17 @@
+{
+    "description": "Gaz rare dans l'atmosphère.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E949 (Hydrogène) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Hydrogène"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E949 - Hydrogène",
+    "usage": "Gaz d'emballage",
+    "use": "",
+    "version": 1
+}

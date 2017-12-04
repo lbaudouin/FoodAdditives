@@ -1,0 +1,23 @@
+{
+    "description": "Se présente sous forme de liquide clairs, paillettes, petites balles ou solides d'odeur fade.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E477 (Polyricinoléate de  propylène glycol)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Polyricinoléate de  propylène glycol",
+        "Ester de propylène glycol d'acides gras"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le propylène glycol est toxique à hautes doses.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E477 - Polyricinoléate de  propylène glycol",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

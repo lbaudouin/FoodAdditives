@@ -1,0 +1,22 @@
+{
+    "description": "Il s'agit d'un mélange d'esters synthétiques d'acide lactique (E270), de propylène glycol (E1520), de Glycérol (E422) et de graisses (qui sont souvent végétales mais peuvent être animales)\nLors de la digestion, il se décompose en graisses.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E478 (Esters glycéroliques et propylène - glycoliques d'acides gras lactyles) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Esters glycéroliques et propylène - glycoliques d'acides gras lactyles"
+    ],
+    "origin": "Issu de matières grasses d'origine indeterminée (animale ou végétale)",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Le propylène glycol est toxique à hautes doses.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E478 - Esters glycéroliques et propylène - glycoliques d'acides gras lactyles",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

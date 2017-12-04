@@ -1,0 +1,29 @@
+{
+    "description": "La résine est obtenue par extraction au solvant [...] suivit d'un raffinage au solvant liquide.\nSe présente sous forme de solide dur, jaune à ambre clair.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E445 (Gomme ester)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>20</sup>H<sup>30</sup>O<sup>2</sup> (acide résinique)",
+    "names": [
+        "Gomme ester",
+        "Esters glycéroliques de résine de bois",
+        "Esters glycériques de résine de bois"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Quelques cas d'irritation (cutanée et buccale) sans gravité.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "Aucun effets chez les rats à doses normales. A hautes doses les foies et reins étaient un peu plus gros que la normale.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E445 - Gomme ester",
+    "usage": "Émulsifiant",
+    "use": "<span style='font-style: italic;'>Oasis</span> Fraise Framboise.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

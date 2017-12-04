@@ -1,0 +1,17 @@
+{
+    "description": "La ficine est une enzyme présente dans le latex des figuiers. C'est une protéase (E1101).",
+    "family": "Divers",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E1101iv (Ficine)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Ficine"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E1101iv - Ficine",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

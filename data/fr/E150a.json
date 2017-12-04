@@ -1,0 +1,18 @@
+{
+    "description": "Effets de la cuisson sur le sucre\nDose journalière des E150abcd (tous confondus) maximale fixée par European Food Safety Authority (EFSA) à 300mg/Kg",
+    "family": "Colorants  Brun",
+    "image": false,
+    "legal": "Le E150a (Caramel) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Caramel",
+        "Caramel I - simple"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+    ],
+    "title": "Additif E150a - Caramel",
+    "usage": "Colorant",
+    "use": "Riz au lait Rhum Raisin <span style='font-style: italic;'>La laitière</span>, La baguette de Kernevel <span style='font-style: italic;'>Paysan Breton</span> (Fromage).\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

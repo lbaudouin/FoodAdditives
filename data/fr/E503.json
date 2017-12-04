@@ -1,0 +1,17 @@
+{
+    "description": "Sel ammoniacal de l'acide carbonique.\nProduit avec un mélange de chlorure d'ammonium (ou de sulfate d'ammonium) et de Craie.",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Le E503 (Carbonates d'ammonium) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Carbonates d'ammonium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+    ],
+    "title": "Additif E503 - Carbonates d'ammonium",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

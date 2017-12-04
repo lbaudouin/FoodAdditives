@@ -1,0 +1,17 @@
+{
+    "description": "Corps résultant de la combinaison d'un atome d'oxygène avec ce métal.\nAutorisé seulement en surface",
+    "family": "Colorants  Noir",
+    "image": false,
+    "legal": "Le E172i (Oxyde de fer, noir) est autorisé en france",
+    "molecule": "FeO · Fe<sup>2</sup>O<sup>3</sup>",
+    "names": [
+        "Oxyde de fer, noir"
+    ],
+    "origin": "Issu de minéraux",
+    "risk": [
+    ],
+    "title": "Additif E172i - Oxyde de fer, noir",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

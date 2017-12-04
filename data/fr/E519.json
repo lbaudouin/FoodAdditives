@@ -1,0 +1,23 @@
+{
+    "description": "Sel de cuivre de l'acide sulfurique.\nIl est fabriqué généralement par attaque du cuivre oxydé par l'acide sulfurique concentré.\nSe présente sous forme d'un cristal d'un très joli bleu.\nIl peut être utilisé comme désherbant ou comme fongicide sur les vignes et les tomates.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E519 (Sulfate de cuivre II)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Sulfate de cuivre II",
+        "Sulfate cuprique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Troubles digestifs (graves à haute dose)",
+            "level": 4
+        }
+    ],
+    "title": "Additif E519 - Sulfate de cuivre II",
+    "usage": "Fixateur de la couleur",
+    "use": "",
+    "version": 1
+}

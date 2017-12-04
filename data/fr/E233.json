@@ -1,0 +1,22 @@
+{
+    "description": "Produit de synthèse souvent utilisé sur la peau des agrumes et des bananes pour empêcher la croissance des moisissures.\nIl a des usages médicamenteux :\n- Vermifuge animal\n- Lutte contre le saturnisme",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E233 (Thiabendazole)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Thiabendazole"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À hautes doses peut causer nausées, diarrhées et maux de tête.",
+            "level": 2
+        }
+    ],
+    "title": "Additif E233 - Thiabendazole",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

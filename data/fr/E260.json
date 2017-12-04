@@ -1,0 +1,34 @@
+{
+    "description": "Acide auquel le vinaigre doit sa saveur.\nOrigine naturelle végétale. Antibactérien.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E260 (Acide acétique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Acide acétique",
+        "Acide étanoïque",
+        "Acide acétique glacial"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Son inhalation est irritante",
+            "level": 2
+        },
+        {
+            "category": "Divers",
+            "details": "Sous forme concentrée il est corrosif",
+            "level": 2
+        },
+        {
+            "category": "Divers",
+            "details": "Il est déconseillé en cas de maux d'estomac en raison de son acidité.",
+            "level": 2
+        }
+    ],
+    "title": "Additif E260 - Acide acétique",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

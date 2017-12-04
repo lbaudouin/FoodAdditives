@@ -1,0 +1,38 @@
+{
+    "description": "Fut interdit en France (sauf dans le caviar).\nRien à voir avec la superbe fleur amarante, dont la graine est riche en lysine (donc excellente pour les végétariens) et qui donne de superbes fleurs rouges\nSe présente sous forme de poudre ou granules brun rougeâtre, solution aqueuse rouge.",
+    "family": "Colorants  Rouge",
+    "image": true,
+    "legal": "Le E123 (Amarante)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>20</sup>H<sup>11</sup>N<sup>2</sup>Na<sup>3</sup>O<sup>9</sup>S<sup>3</sup>\r\nC<sup>20</sup>H<sup>11</sup>N<sup>2</sup>Ca<sup>3</sup>O<sup>9</sup>S<sup>3</sup>\r\nC<sup>20</sup>H<sup>11</sup>N<sup>2</sup>K<sup>3</sup>O<sup>9</sup>S<sup>3</sup>",
+    "names": [
+        "Amarante",
+        "C.I. Food Red 9",
+        "Azorubin S",
+        "Amaranth",
+        "Acid Red 27",
+        "FD&C Red No. 2",
+        "Amaranthe"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Aggrave les asthmes.",
+            "level": 3
+        },
+        {
+            "category": "Divers",
+            "details": "Suspecté d'être cancérigène.",
+            "level": 4
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        }
+    ],
+    "title": "Additif E123 - Amarante",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

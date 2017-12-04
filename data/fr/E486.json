@@ -1,0 +1,17 @@
+{
+    "description": "Il s'agit d'un ester synthétique d'acide fumarique (E297) et de l'acide stéarique (E570).\nUne seconde réaction chimique permet d'en faire un sel de calcium.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E486 (Stéaroylfumarate de calcium)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Stéaroylfumarate de calcium"
+    ],
+    "origin": "Issu de matières grasses d'origine indeterminée (animale ou végétale)",
+    "risk": [
+    ],
+    "title": "Additif E486 - Stéaroylfumarate de calcium",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

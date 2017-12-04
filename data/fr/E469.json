@@ -1,0 +1,24 @@
+{
+    "description": "Carboxyméthylcellulose de sodium (E466), qui a été hydrolysé par le champignon Trichoderma reesei cellulase.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E469 (Carboxyméthylcellulose hydrolysée par voie enzymatique) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Carboxyméthylcellulose hydrolysée par voie enzymatique",
+        "Gomme cellulosique hydrolysée par voie enzymatique",
+        "Carboximéthyl-cellulose sodique hydrolysée par voie enzymatique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose peut provoquer ballonnements et diarrhées",
+            "level": 1
+        }
+    ],
+    "title": "Additif E469 - Carboxyméthylcellulose hydrolysée par voie enzymatique",
+    "usage": "Épaississant",
+    "use": "",
+    "version": 1
+}

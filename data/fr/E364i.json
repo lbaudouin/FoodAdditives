@@ -1,0 +1,17 @@
+{
+    "description": "Sel de sodium de l'acide succinique (E363).",
+    "family": "Acidifiants",
+    "image": false,
+    "legal": "Je ne sais pas encore si le E364i (Succinate monosodique)  est interdit en france",
+    "molecule": "",
+    "names": [
+        "Succinate monosodique"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E364i - Succinate monosodique",
+    "usage": "Régulateur de l'acidité",
+    "use": "",
+    "version": 1
+}

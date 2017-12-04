@@ -1,0 +1,21 @@
+{
+    "description": "Il s'agit de la Vitamine C\nSe présente sous forme de solide cristallin inodore, blanc ou légerement jaunâtre.",
+    "family": "Anti-oxydants",
+    "image": false,
+    "legal": "Le E300 (Vitamine C) est autorisé en france",
+    "molecule": "C<sup>6</sup>H<sup>8</sup>O<sup>6</sup>",
+    "names": [
+        "Vitamine C",
+        "3-céto-L-gulofuranolactone",
+        "Acide L-ascorbique",
+        "2,3-didéhydro-L-thréo-hexono-1,4-lactone",
+        "Acide ascorbique"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E300 - Vitamine C",
+    "usage": "Antioxydant",
+    "use": "Sélection équilibre Purée de Pomme <span style='font-style: italic;'>Grand Jury</span>, Purée Mousline <span style='font-style: italic;'>Maggi</span>, Boisson aux Fruits Orange à l'eau de source <span style='font-style: italic;'>Grand Jury</span>.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

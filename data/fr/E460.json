@@ -1,0 +1,22 @@
+{
+    "description": "La cellulose est un polysaccharide constitué d'une chaîne linéaire de molécules de D-Glucose  (une longue chaine de 100 à plus de 10000 unités de D-Glucose !) .\nC'est le principal constituant des végétaux et en particulier de la paroi de leurs cellules.\nElle est obtenue à partir de pulpe de souches naturelles de la matière végétale fibreuse contenant des acides minéraux puis désintégrée mécaniquement et préparée par traitement d'alpha celluloses.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E460 (Celluloses) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Celluloses"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À haute dose peut provoquer ballonnements et diarrhées",
+            "level": 1
+        }
+    ],
+    "title": "Additif E460 - Celluloses",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,25 @@
+{
+    "description": "Se présente sous forme de cristaux incolores ou poudre blanche, inodore.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E452iv (Métaphosphate de calcium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "(CaP<sup>2</sup>O<sup>6</sup>)<sup>n</sup>",
+    "names": [
+        "Métaphosphate de calcium",
+        "Polyphosphate de calcium",
+        "Polyphosphate calcique",
+        "Polymétaphosphate de calcium"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E452iv - Métaphosphate de calcium",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

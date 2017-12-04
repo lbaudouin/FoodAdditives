@@ -1,0 +1,19 @@
+{
+    "description": "Supprimé dans les pays de la CEE depuis le 1er janvier 1977",
+    "family": "Colorants  Bleu",
+    "image": false,
+    "legal": "Le E130 (Manascorubine)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "",
+    "names": [
+        "Manascorubine",
+        "Bleu anthraquinonique",
+        "Bleu solanthrène RS"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E130 - Manascorubine",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

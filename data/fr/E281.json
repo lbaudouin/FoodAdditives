@@ -1,0 +1,22 @@
+{
+    "description": "Cet additif de synthèse est un sel de sodium de l'acide propionique (E280)",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E281 (Propionate de sodium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Propionate de sodium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Pourrait provoquer des migraines",
+            "level": 2
+        }
+    ],
+    "title": "Additif E281 - Propionate de sodium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

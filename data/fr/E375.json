@@ -1,0 +1,24 @@
+{
+    "description": "La vitamine B3 se trouve dans le lait, les légumes feuillus et les œufs.\nElle est fabriquée de manière synthétique.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E375 (Vitamine B3)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Vitamine B3",
+        "Acide nicotinique",
+        "Vitamine PP"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Dangereux à hautes doses pour le foie",
+            "level": 2
+        }
+    ],
+    "title": "Additif E375 - Vitamine B3",
+    "usage": "Agent de rétention de la couleur",
+    "use": "",
+    "version": 1
+}

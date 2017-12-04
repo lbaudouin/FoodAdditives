@@ -1,0 +1,18 @@
+{
+    "description": "Il s'agit d'un polymère synthétique.\nLa forme monomère est cancérigène et très toxique pour la vie aquatique.\nUtilisé dans les boissons, les dentifrices et les shampoings.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E1202 (Polyvinylpolypyrrolidone) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Polyvinylpolypyrrolidone",
+        "Polyvinylpolypyrrolidone insoluble"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+    ],
+    "title": "Additif E1202 - Polyvinylpolypyrrolidone",
+    "usage": "Stabilisant de la couleur",
+    "use": "",
+    "version": 1
+}

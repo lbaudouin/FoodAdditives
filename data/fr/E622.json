@@ -1,0 +1,27 @@
+{
+    "description": "Sel ou ester de l'acide glutamique combiné avec du potassium",
+    "family": "Exhausteurs",
+    "image": false,
+    "legal": "Le E622 (Glutamate monopotassique)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Glutamate monopotassique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À partir 2.5g, on constate des maux de tête attribuables au glutamate (pour 2.3% des consommateurs), crampes (0.4%), engourdissements (0.7%), faiblesse générale (4.0%) et bouffées de chaleur (1.6%)  (selon une étude de 1997)",
+            "level": 3
+        },
+        {
+            "category": "Allergie",
+            "details": "Certains asthmatiques y sont allergiques. Il peut aggraver les urticaires (3% des cas).",
+            "level": 3
+        }
+    ],
+    "title": "Additif E622 - Glutamate monopotassique",
+    "usage": "Exaltateur d'arôme",
+    "use": "",
+    "version": 1
+}

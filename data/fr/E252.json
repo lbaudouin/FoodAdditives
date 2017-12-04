@@ -1,0 +1,22 @@
+{
+    "description": "Sel de l'acide nitrique combiné à ce métal.\nNature minérale. Servent à lutter contre le botulisme.",
+    "family": "Conservateurs",
+    "image": false,
+    "legal": "Le E252 (Nitrate de potassium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Nitrate de potassium"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "À dose importante, risque de méthémoglobinémie (globules rouges inefficaces à transporter l'oxygène). À éviter pour les enfants.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E252 - Nitrate de potassium",
+    "usage": "Conservateur",
+    "use": "",
+    "version": 1
+}

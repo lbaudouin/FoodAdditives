@@ -1,0 +1,23 @@
+{
+    "description": "Extrait d'un lychen.",
+    "family": "Colorants  Rouge",
+    "image": true,
+    "legal": "Le E121 (Orseille orcéine)  est interdit en france <small>(C'est a dire que je n'ai pas trouvé le texte de loi qui l'autorise)</small>",
+    "molecule": "C<sup>28</sup>H<sup>24</sup>N<sup>2</sup>O<sup>7</sup>",
+    "names": [
+        "Orseille orcéine",
+        "Rouge citrus No. 2"
+    ],
+    "origin": "Issu de végétaux",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E121 - Orseille orcéine",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

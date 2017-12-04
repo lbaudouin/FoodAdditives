@@ -1,0 +1,37 @@
+{
+    "description": "Sel tétrasodique de l'acide hydroxy-1 acétylamino-8 [(sulfo-4 phénylazo)-4 (sulfo-7 naphtylazo)]-2 naphtalène-disulfonique-3,5",
+    "family": "Colorants  Noir",
+    "image": false,
+    "legal": "Le E151 (Noir brillant BN) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Noir brillant BN",
+        "Naphthol Black",
+        "Food Black 1",
+        "C.I. Food Brown 1",
+        "C.I. 28440",
+        "Brilliant Black PN",
+        "Brilliant Black BN",
+        "Brilliant Black A",
+        "Black PN",
+        "Noir brilliant",
+        "Noir PN"
+    ],
+    "origin": "Produit de synthèse",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Les asthmatiques peuvent éprouver des symptômes après consommation de Noir brillant BN",
+            "level": 2
+        },
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie chez les personnes qui sont intolérantes aux salicylates (aspirine, baies, fruits).",
+            "level": 3
+        }
+    ],
+    "title": "Additif E151 - Noir brillant BN",
+    "usage": "Colorant",
+    "use": "",
+    "version": 1
+}

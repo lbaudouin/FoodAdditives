@@ -1,0 +1,23 @@
+{
+    "description": "Amidon estérifié avec de l'oxyde de propylène.",
+    "family": "Épaississants",
+    "image": false,
+    "legal": "Le E1440 (Amidon Hydroxypropylé) est autorisé en france",
+    "molecule": "",
+    "names": [
+        "Amidon Hydroxypropylé",
+        "Amidon hydroxypropylique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1440 - Amidon Hydroxypropylé",
+    "usage": "Stabilisant",
+    "use": "",
+    "version": 1
+}

@@ -1,0 +1,18 @@
+{
+    "description": "Se présente sous forme de matiere solide onctueuse ( à 25° ), de couleur creme.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E483 (Tartrate de stéaryle)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>38</sup>H<sup>74</sup>O<sup>6</sup>\r\nC<sup>40</sup>H<sup>78</sup>O<sup>6</sup>",
+    "names": [
+        "Tartrate de stéaryle",
+        "Palmitryltartrate de stéaryle"
+    ],
+    "origin": "Issu de matières grasses d'origine indeterminée (animale ou végétale)",
+    "risk": [
+    ],
+    "title": "Additif E483 - Tartrate de stéaryle",
+    "usage": "Agent de traitement des farines",
+    "use": "",
+    "version": 1
+}

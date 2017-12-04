@@ -1,0 +1,24 @@
+{
+    "description": "Se présente sous forme de poudre ou granule blanc. Sous forme anhydre ou sous forme de mono hydrate.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E450ii (Diphosphate trisodique) est autorisé en france",
+    "molecule": "NaHP<sup>2</sup>O<sup>7</sup>.H<sup>2</sup>O\r\nNaHP<sup>2</sup>O<sup>7</sup>",
+    "names": [
+        "Diphosphate trisodique",
+        "Hydrogéno-diphosphate trisodique",
+        "Pyrophosphate trisodique acide"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Risque d'allergie",
+            "level": 3
+        }
+    ],
+    "title": "Additif E450ii - Diphosphate trisodique",
+    "usage": "Émulsifiant",
+    "use": "",
+    "version": 1
+}

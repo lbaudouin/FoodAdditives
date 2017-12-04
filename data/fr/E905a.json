@@ -1,0 +1,27 @@
+{
+    "description": "Huile minérale, dérivée du pétrole. En principe, n'est pas assimilée par l'organisme humain.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E905a (Huile minérale de qualité alimentaire)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Huile minérale de qualité alimentaire"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "Laxatif",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "Peut être dangereux à haute dose (ainsi qu'en injection ou en en respirant les vapeurs)",
+            "level": 2
+        }
+    ],
+    "title": "Additif E905a - Huile minérale de qualité alimentaire",
+    "usage": "Agent de glaçage",
+    "use": "",
+    "version": 1
+}

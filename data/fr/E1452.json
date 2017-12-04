@@ -1,0 +1,23 @@
+{
+    "description": "Sel d'aluminium de l'octényle succinate d'amidon sodique (E1450)",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E1452 (Octényl succinate d'amidon d'aluminium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Octényl succinate d'amidon d'aluminium",
+        "Succinate octénylique aluminique d'amidon"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Allergie",
+            "details": "Pour les intolérants au gluten, vérifier qu'il ne s'agit pas d'amidon de blé.",
+            "level": 3
+        }
+    ],
+    "title": "Additif E1452 - Octényl succinate d'amidon d'aluminium",
+    "usage": "Anticaking agent",
+    "use": "",
+    "version": 1
+}

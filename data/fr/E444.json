@@ -1,0 +1,19 @@
+{
+    "description": "Se présente sous forme de liquide clair de couleur paille, limpide et dépourvu de dépôts, ayant une odeur fade.",
+    "family": "Émulsifiants",
+    "image": false,
+    "legal": "Le E444 (Isobutyrate Acétate de saccharose)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "C<sup>40</sup>H<sup>62</sup>O<sup>19</sup>",
+    "names": [
+        "Isobutyrate Acétate de saccharose",
+        "SAIB",
+        "Acétate-isobutyrate de saccharose"
+    ],
+    "origin": "",
+    "risk": [
+    ],
+    "title": "Additif E444 - Isobutyrate Acétate de saccharose",
+    "usage": "Émulsifiant",
+    "use": "<span style='font-style: italic;'>Oasis</span> Fraise Framboise.\n<small style='color:grey;' >Liste non exaustive d'exemple d'utilisations. Les marques citées appartiennent à leurs propriétaires respectifs.</small>",
+    "version": 1
+}

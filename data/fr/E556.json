@@ -1,0 +1,29 @@
+{
+    "description": "Sel de calcium et d'aluminium de l'oxyde de silicium (E551).\nIl est extrait de roches.",
+    "family": "Divers",
+    "image": false,
+    "legal": "Le E556 (Silicate d'aluminium et calcium)  est autorisé en france sous conditions.<br>\n<small>Il peut avoir une quantité maximales autorisées dans un aliment<br>\nIl peut aussi etre limité à certains aliments</small>",
+    "molecule": "",
+    "names": [
+        "Silicate d'aluminium et calcium",
+        "Aluminosilicate de calcium",
+        "Silicate alumino-calcique"
+    ],
+    "origin": "",
+    "risk": [
+        {
+            "category": "Divers",
+            "details": "L'aluminium est neurotoxique à hautes doses.",
+            "level": 1
+        },
+        {
+            "category": "Divers",
+            "details": "Irritant lorsqu'il est inhalé.",
+            "level": 1
+        }
+    ],
+    "title": "Additif E556 - Silicate d'aluminium et calcium",
+    "usage": "Antiagglomérant",
+    "use": "",
+    "version": 1
+}
