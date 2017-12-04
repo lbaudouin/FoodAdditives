@@ -22,8 +22,7 @@ Page {
 
         Component.onCompleted: {
             var xhr = new XMLHttpRequest;
-            //xhr.open("GET", "https://raw.githubusercontent.com/lbaudouin/FoodAdditives/master/data/fr/additives.json");
-            xhr.open("GET", "http://127.0.0.1/additives.json");
+            xhr.open("GET", "https://raw.githubusercontent.com/lbaudouin/FoodAdditives/master/data/fr/additives.json");
             xhr.onreadystatechange = function() {
                 if (xhr.readyState === XMLHttpRequest.DONE) {
                     var response = xhr.responseText;
