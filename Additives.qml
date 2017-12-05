@@ -59,18 +59,23 @@ Page {
     header: ToolBar {
         RowLayout {
             anchors.fill: parent
-            Label {
-                text: qsTr("Food additives")
-                elide: Label.ElideRight
-                horizontalAlignment: Qt.AlignHCenter
-                verticalAlignment: Qt.AlignVCenter
+            Item{
                 Layout.fillWidth: true
-                font.pointSize: 20
             }
+
             ToolButton {
                 text: "⋮"
                 onClicked: menu.open()
             }
+        }
+
+        Label {
+            text: qsTr("Food additives")
+            elide: Label.ElideRight
+            horizontalAlignment: Qt.AlignHCenter
+            verticalAlignment: Qt.AlignVCenter
+            font.pointSize: 20
+            anchors.fill: parent
         }
     }
 

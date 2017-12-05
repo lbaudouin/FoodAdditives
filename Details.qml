@@ -13,14 +13,17 @@ Page {
                 text: "‹"
                 onClicked: stackView.pop()
             }
-            Label {
-                text: details.code
-                elide: Label.ElideRight
-                horizontalAlignment: Qt.AlignHCenter
-                verticalAlignment: Qt.AlignVCenter
+            Item{
                 Layout.fillWidth: true
-                font.pointSize: 20
             }
+        }
+        Label {
+            text: details.code
+            elide: Label.ElideRight
+            horizontalAlignment: Qt.AlignHCenter
+            verticalAlignment: Qt.AlignVCenter
+            anchors.fill: parent
+            font.pointSize: 20
         }
     }
 
