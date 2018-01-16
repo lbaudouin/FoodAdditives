@@ -33,7 +33,14 @@ HEADERS += \
     sortfilterproxymodel.h
 
 DISTFILES += \
-    additives.json
+    additives.json \
+    android/AndroidManifest.xml \
+    android/gradle/wrapper/gradle-wrapper.jar \
+    android/gradlew \
+    android/res/values/libs.xml \
+    android/build.gradle \
+    android/gradle/wrapper/gradle-wrapper.properties \
+    android/gradlew.bat
 
 TRANSLATIONS += FoodAdditives_fr.ts
 
@@ -41,3 +48,5 @@ lupdate_only{
 SOURCES = *.qml \
           *.js
 }
+
+ANDROID_PACKAGE_SOURCE_DIR = $$PWD/android
